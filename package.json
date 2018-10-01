@@ -1,0 +1,38 @@
+{
+  "name": "proctor",
+  "version": "1.0.0",
+  "description": "personal website",
+  "author": "MR",
+  "private": true,
+  "scripts": {
+    "build:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt build",
+    "generate:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "dev": "nuxt -H 0.0.0.0",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.1",
+    "@nuxtjs/markdownit": "^1.2.1",
+    "markdown-it": "^8.4.2",
+    "markdown-it-footnote": "^3.0.1",
+    "nuxt": "^1.0.0",
+    "nuxt-blog": "^1.0.0",
+    "vue-markdown": "^2.2.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/markdownit-loader": "^1.1.1",
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "node-sass": "^4.9.3",
+    "push-dir": "^0.4.1",
+    "sass-loader": "^7.1.0"
+  }
+}

@@ -1,0 +1,95 @@
+<style scoped>
+.tile {
+  padding:10px;
+  max-width:500px;
+  float: left;
+  position: relative;
+  margin-bottom:10px;
+  margin-right:10px;
+  max-height:700px;
+  height:100%;
+  width:100%;
+
+}
+
+
+
+
+/* image {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+#image-tile img {
+    width: 100%;
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
+} */
+
+/* .overlay{
+  position:absolute;
+  text-align: center;
+  top:50px;
+  max-width:50%
+  background-color:(255,255,255,0.5)
+  } */
+
+h3 {
+   position: absolute;
+   top: 50px;
+   text-align:center;
+   width: 100%;
+   color:white;
+   font-size:1em;
+
+}
+h1 {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+   color:blue;
+   font-size:25px;
+
+}
+
+
+
+
+
+
+  </style>
+
+  <template>
+
+  <nuxt-link :to="url">
+
+  <div class="tile is-ancestor">
+    <article class="tile is-child notification is-warning" id="image-tile">
+
+          <figure class="image">
+            <img :src="thumbnail" class="img">
+          <h3>{{publication}} <br> {{year}}/{{month}}</h3>
+
+            <h1>{{title}}</h1>
+
+
+          </figure>
+          <div class="notification">
+          {{abstract}}
+        </div>
+        </article>
+  </div>
+
+</nuxt-link>
+</template>
+
+<script>
+
+export default {
+  name: 'TextTile',
+    props: ["title", "publication", "thumbnail", "abstract", "year", "month", "id", "url"]
+};
+
+</script>

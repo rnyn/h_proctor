@@ -41,8 +41,8 @@ export default {
     TextTile
   },
 
-    fetch ({store}) {
-      store.dispatch('getTexts')
+   async  fetch ({store}) {
+    await  store.dispatch('getTexts')
     },
   computed: {
     texts () {

@@ -1,23 +1,23 @@
 // only add `router.base = '/<repository-name>/'` if `DEPLOY_ENV` is `GH_PAGES`
-const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
-  router: {
-    base: '/proctor/'
-  }
-} : {}
+// const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+//   router: {
+//     base: '/proctor/'
+//   }
+// } : {}
 
 
 module.exports = {
-  mode: 'universal',
-  router:{
-    ...routerBase
-  },
-  modules: [
-    '@nuxtjs/axios',
-    ['@nuxtjs/markdownit', {html: true, linkify: true, typographer: true }]
-  ],
-  markdownit: {
-    injected: true
-  },
+  mode: 'spa',
+  // router:{
+  //   base:
+  // },
+  // modules: [
+  //   '@nuxtjs/axios',
+  //   ['@nuxtjs/markdownit', {html: true, linkify: true, typographer: true }]
+  // ],
+  // markdownit: {
+  //   injected: true
+  // },
   /*
   ** Headers of the page
   */

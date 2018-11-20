@@ -38,6 +38,9 @@ text-shadow: .25px .25px .5px black;
   font-size: .85em;
   color:white;
 }
+.media-right{
+  padding:2.5px;
+}
 
 
   </style>

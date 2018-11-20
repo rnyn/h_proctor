@@ -517,7 +517,7 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
               id: 21,
               eventTitle: "Radical Psychiatry, Psychoanalysis and 1968",
               location: "ICI Berlin",
-              title: "Co-chair, respondent",
+              title: "",
               abstract:
                 "A symposium on French institutional psychotherapy with a keynote by Camille Robcis, co-organised by Hannah Proctor (ICI Berlin) and Sarah Marks (Birkbeck Hidden Persuaders Project).",
               year: "2018",

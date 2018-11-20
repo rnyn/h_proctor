@@ -24,12 +24,12 @@ const makeStore = () => {
       }
     },
     actions: {
-      getTextWithSlug({ commit, state }, slug) {
-        let text = state.texts.find(text => {
-          return text.slug === slug;
-        });
-        commit("updateText", { text: text });
-      },
+      // getTextWithSlug({ commit, state }, slug) {
+      //   let text = state.texts.find(text => {
+      //     return text.slug === slug;
+      //   });
+      //   commit("updateText", { text: text });
+      // },
       getTexts({ commit }) {
         commit("updateTexts", {
   texts: [

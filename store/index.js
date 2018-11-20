@@ -184,7 +184,7 @@ const makeStore = () => {
       id: 13,
       slug: "review-homo-sovieticus",
       title:
-        "Review of W. Velminski's Homo Sovieticus: Brain Waves, Mind Control, and Telepathic Destiny",
+        "Review of W. Velminski's Homo Sovieticus",
       thumbnail: "images/review-homo-sovieticus.jpg",
       publication: "History of the Human Sciences",
       abstract: "This review of a short polemical book on Soviet hypnosis and telepathy contends that the author seems more interested in Soviet hypnosis as a grandiose metaphor for understanding the Soviet Union than it does in describing it as a actually existing phenomenon.",
@@ -203,7 +203,7 @@ const makeStore = () => {
       id: 12,
       slug: "objects-feminism",
       title:
-        "Book chapter in Objects of Feminism, eds. Maija Timonen, Josephine Wikström ",
+        "Book chapter in Objects of Feminism",
       thumbnail: "images/objects-feminism.jpg",
       publication:
         "The Academy of Fine Arts at the University of the Arts Helsinki",
@@ -263,7 +263,7 @@ const makeStore = () => {
       id: 9,
       slug: "torque2-chapter",
       title:
-        "Book chapter in Torque #2: The Act of Reading, eds. Nathan Jones, Sam Skinner",
+        "Book chapter in Torque #2: The Act of Reading",
       thumbnail: "images/torque2-chapter.jpg",
       publication: "Link Editions & Torque Editions",
       abstract: "Bright lights and wrinkled skin in New York City via Marshall Berman's On the Town and Samuel Delany's Times Square Red, Times Square Blue",
@@ -301,7 +301,7 @@ const makeStore = () => {
       id: 7,
       slug: "women-edge-time",
       title:
-        "Women on the Edge of Time: Representations of Revolutionary Motherhood in the NEP-era Soviet Union",
+        "Women on the Edge of Time: Revolutionary Motherhood",
       thumbnail: "images/women-edge-time.jpg",
       publication: "Studies in the Maternal",
       abstract: "Discusses representations of motherhood from the NEP period that combine visions of radically reconfigured gender relations and evince non-traditional attitudes to the family and to social reproduction but nonetheless insist on the continued centrality of a particularly kind of instinctual motherly love to the process of building the Communist future.",
@@ -320,7 +320,7 @@ const makeStore = () => {
       id: 6,
       slug: "torque1-chapter",
       title:
-        "Book chapter in Torque #1: Mind, Language and Technology, eds. Nathan Jones, Sam Skinner",
+        "Book chapter in Torque #1: Mind, Language and Technology",
       thumbnail: "images/torque1-chapter.jpg",
       publication: "Link Editions & Torque Editions",
       abstract: "How do visual representations of the brain participate in forming our understanding of human subjectivity and what do they obscure from view?",
@@ -338,7 +338,7 @@ const makeStore = () => {
       id: 5,
       slug: "review-neuro",
       title:
-        "Brainiacs-- Review of Nikolas Rose and Joel e M. Abi-Rached, Neuro: The New Brain Sciences and the Management of the Mind",
+        "Review of Rose & Abi-Rached, Neuro",
       thumbnail: "images/review-neuro.jpg",
       publication: "Radical Philosophy",
       abstract: "For Rose and Abi-Rached, critique, like the spectral entourage of social critics that haunt this text, is implicitly aligned with crude judgements, with insensitive and destructive polemic blind to the intricacies of reality.",
@@ -412,7 +412,7 @@ const makeStore = () => {
     {
       id: 1,
       slug: "review-sex-unbearable",
-      title: "Review of Lauren Berlant and Lee Edelman, Sex, Or The Unbearable",
+      title: "Review of Berlant & Edelman: Sex, Or The Unbearable",
       thumbnail: "images/review-sex-unbearable.jpg",
       publication: "Studies in the Maternal",
       abstract: "A review of a book that is a lot more unbearable than it is sex.",

@@ -56,7 +56,7 @@ h3 {
 }
 h2 {
    position: absolute;
-   top: 50%;
+   top: 40%;
    left: 0;
    /* width: 100%; */
    color:white;
@@ -70,7 +70,7 @@ h2 {
   visibility: hidden;
 } */
 
-#abstract:hover {
+/* #abstract:hover {
    position: absolute;
    bottom: 50;
    left: 0;
@@ -80,7 +80,7 @@ h2 {
    background-color:rgb(0,0,0,0.3);
    z-index: 1;
 
-}
+} */
 
 /* .notification{
   font-size: .85em;

@@ -338,7 +338,7 @@ const makeStore = () => {
       id: 5,
       slug: "review-neuro",
       title:
-        "Review of Rose & Abi-Rached, Neuro",
+        "Review of Rose & Abi-Rached: Neuro",
       thumbnail: "images/review-neuro.jpg",
       publication: "Radical Philosophy",
       abstract: "For Rose and Abi-Rached, critique, like the spectral entourage of social critics that haunt this text, is implicitly aligned with crude judgements, with insensitive and destructive polemic blind to the intricacies of reality.",

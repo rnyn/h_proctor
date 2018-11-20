@@ -56,7 +56,7 @@ h3 {
 }
 h2 {
    position: absolute;
-   top: 40%;
+   top: 35%;
    left: 0;
    /* width: 100%; */
    color:white;

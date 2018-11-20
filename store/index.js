@@ -517,7 +517,7 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
               id: 21,
               eventTitle: "Radical Psychiatry, Psychoanalysis and 1968",
               location: "ICI Berlin",
-              title: "",
+              title: "Co-chair, respondent",
               abstract:
                 "A symposium on French institutional psychotherapy with a keynote by Camille Robcis, co-organised by Hannah Proctor (ICI Berlin) and Sarah Marks (Birkbeck Hidden Persuaders Project).",
               year: "2018",
@@ -650,7 +650,7 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
 
             {
               id: 13,
-              eventTitle: "",
+              eventTitle: "Communist Feelings, with Larne Abse Gogarty",
               location: "diffrakt",
               title: "Communist Feelings",
               abstract:
@@ -685,7 +685,7 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
               id: 11,
               eventTitle: "Objects of Feminism: Book Launch",
               location: "South London Gallery",
-              title: "",
+              title: "Stone Femme",
               abstract: "",
               year: "2017",
               month: "11",
@@ -703,7 +703,7 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
               location: "ICI Berlin",
               title: "Resistance / Rehabilitation",
               abstract:
-                "Taking various instantiations of re- as its points of departure, current ICI Fellows present an errant glossary in 			order to provoke reactions, resonances and responses.",
+                "Taking various instantiations of re- as its points of departure, current ICI Fellows present an errant glossary in	order to provoke reactions, resonances and responses.",
               year: "2017",
               month: "09",
               url: "https://www.ici-berlin.org/events/re-workshop/",
@@ -800,7 +800,7 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
             {
               id: 4,
               eventTitle:
-                "OBJECTS OF PSYCHIATRY:\
+                "Objects of Psychiatry:\
 		Between thing-making, reification & personhood",
               location: "University Hospital of Psychiatry, Zurich",
               title: "",
@@ -818,7 +818,7 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
             {
               id: 3,
               eventTitle:
-                "REALITY CHECK: A SYMPOSIUM ON ART, PSYCHO-POLITICS AND THE LIMITS OF COMMUNITY",
+                "Reality Check: A Symposium on Art, Psycho-politics, and the Limits of Community",
               location: "University College London",
               title: "Revisting Red Therapy: Panel Discussion",
               abstract: "",

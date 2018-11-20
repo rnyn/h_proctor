@@ -5,7 +5,8 @@
 }
 
 #event-link{
-  float:right;
+text-shadow: .25px .25px .5px black;
+
 }
 
 #date{
@@ -55,8 +56,9 @@
       <div class="media-content">
         <div class="content">
           <div class="media-right">
-            <strong>{{ eventTitle }}</strong> <small>  {{ location }} </small> <a v-bind:href="url" target="_blank" id="event-link"><img src="images/baseline-link-24px.svg"></a>
-              <br> <i>{{title}}</i><br> {{ abstract }}
+            <strong>{{ eventTitle }}</strong><br><a v-bind:href="url" target="_blank" id="event-link">{{location}}</a>
+            <i><div v-if="title"><span v-text="title"></span></div></i>
+              <div v-if="abstract"><span v-text="abstract"></span></div>
 
 
           </div>

@@ -27,11 +27,11 @@
 <script>
 // import EventTable from '@/components/EventTable'
 import EventBox from '@/components/EventBox'
-import EventLevel from '@/components/EventLevel'
+// import EventLevel from '@/components/EventLevel'
 export default {
   components:  {
     EventBox,
-    EventLevel
+    // EventLevel
   },
 
     fetch ({store}) {

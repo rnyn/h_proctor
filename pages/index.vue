@@ -3,15 +3,15 @@
 body{
   font-family: 'Open Sans', sans-serif;
 }
-.container{
-  padding:10px;
-  margin: 0 auto;
+#hero{
+  margin-top:50px;
+  /* margin: 0 auto; */
 }
 </style>
 <template>
 <section>
 <div class="container">
-  <img src="images/hp-hero.jpg">
+  <img src="images/hp-hero.jpg" id="hero">
 </div>
 </section>
 </template>

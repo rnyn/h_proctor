@@ -54,7 +54,7 @@ h3 {
    z-index:1;
 
 }
-h1 {
+h2 {
    position: absolute;
    top: 50%;
    left: 0;
@@ -99,7 +99,7 @@ h1 {
             <img :src="thumbnail">
           <h3>{{publication}} <br> {{year}}/{{month}}</h3>
 
-            <h1>{{title}}</h1>
+            <h2>{{title}}</h2>
 
           <!-- <p id="abstract"> {{ abstract }} </p> -->
 

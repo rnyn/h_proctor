@@ -94,7 +94,7 @@ const makeStore = () => {
       slug: "fucking-freeways",
       title: "Fucking under Freeways: California at the End of History",
       thumbnail: "images/fucking-freeways.jpg",
-      publication: "Radical Philosophy",
+      publication: "Blindfield Journal",
       abstract: "A fragmentary drive across the highways of California with some jaded Europeans projecting their own visions of a perpetual present onto the desert sand.",
       year: "2018",
       month: "04",

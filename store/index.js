@@ -241,7 +241,7 @@ const makeStore = () => {
       id: 10,
       slug: "deceptive-subjects",
       title:
-        "Deceptive Subjects: Reading the Harvard Project on the Soviet Social System",
+        "Deceptive Subjects: the Harvard Project on the Soviet Social System",
       thumbnail: "images/deceptive-subjects.jpg",
       publication: "Hidden Persuaders",
       abstract:

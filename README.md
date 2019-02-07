@@ -1,6 +1,6 @@
 # proctor
 
-> personal website
+> vue.js personal website
 
 ## Build Setup
 

@@ -1,10 +1,13 @@
 <style scoped>
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
 
 /* #tile-container{
   margin: 0 auto;
   width:100%;
 } */
-
+.image{
+  font-family: 'Alegreya', serif;
+}
 
 .tile {
   padding:1px;

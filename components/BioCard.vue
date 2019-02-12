@@ -95,7 +95,7 @@
             Soviet people – industrial workers, imprisoned murderers, rural school
             children, deaf babies, homeless teenagers, Uzbek women and brain-injured
             former soldiers – with whom his clinical work brought him into contact. I'm
-            also working on a book project for Verso on psychic aftermath of political
+            also working on a book project for Verso on the psychic aftermath of political
             struggle. I've amassed a pile of material on femininity and hardness – with
             the working title 'Stone Femme' – to which I hope to return at some point
             as well.

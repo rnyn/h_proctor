@@ -479,7 +479,7 @@ const makeStore = () => {
             },
             {
               id: 27,
-              eventTitle: "Reading",
+              eventTitle: "After the Eclipse",
               location: "Flutgraben e.V.",
               title: "Narcissism of Small Differences",
               abstract: "How I stopped worrying and learned to hate Crudo",

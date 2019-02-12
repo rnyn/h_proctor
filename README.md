@@ -1,6 +1,6 @@
-# proctor
+# h_proctor
 
-> vue.js personal website
+> vue.js personal website https://hannahproctor.com
 
 ## Build Setup
 

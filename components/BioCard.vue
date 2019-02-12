@@ -19,7 +19,7 @@
   text-align:justify;
   margin:0 auto;
   max-width: 800px;
-  min-width: 300px;
+  min-width: 280px;
 }
 
 .container h4{

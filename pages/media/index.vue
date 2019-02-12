@@ -29,7 +29,7 @@ height: 100%;
       <div class="card">
         <div class="image is-4by3">
           <figure>
-      <img src="images/hannah-larne-chisenhale.jpg">
+      <img src="~/assets/hannah-larne-chisenhale.jpg">
         </figure>
       </div>
         <div class="card-header">
@@ -61,7 +61,7 @@ height: 100%;
       <div class="card">
             <div class="card-image">
               <figure class="is-4by3">
-              <img src="images/its-about-time.jpg">
+              <img src="~/assets/its-about-time.jpg">
             </figure>
           </div>
             <div class="card-header">

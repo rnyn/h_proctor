@@ -8,7 +8,7 @@
       <div class="card">
         <div class="image is-4by3">
           <figure>
-      <img src="~/static/images/under-the-moon.jpg">
+      <img src="~/assets/under-the-moon.jpg">
         </figure>
       </div>
         <div class="card-header">
@@ -26,7 +26,7 @@
       <div class="card">
         <div class="card-image">
           <figure class="is-4by3">
-          <img src="~/static/images/au-hasard.jpg">
+          <img src="~/assets/au-hasard.jpg">
         </figure>
       </div>
         <div class="card-header">

@@ -21,7 +21,7 @@
 .content{
   font-family: 'Alegreya', serif;
   margin:0 auto;
-  width: 40%;
+  max-width: 400px;
 }
 
 .content h4{

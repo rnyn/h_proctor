@@ -1,8 +1,8 @@
 
 <style>
 body{
-  font-family: 'Open Sans', sans-serif;
-}
+  font-family: 'Alegreya', serif;
+ }
 #hero{
   margin-top:50px;
   /* margin: 0 auto; */

@@ -15,24 +15,24 @@
   margin-top: 20px;
 }
 
-h3{
+.content{
+  font-family: 'Alegreya', serif;
+
+}
+
+.content h3{
   /* font-style:italic; */
   text-align: center;
-  font-family: 'Oswald', sans-serif;
-  /* font-family: 'Anton', sans-serif; */
+  font-family: 'Alegreya Sans', sans-serif;
 
-  /* font-family: 'IBM Plex Mono', monospace; */
-  /* font-family: 'Abel', sans-serif; */
-/*  */
-  /* font-family: 'Work Sans', sans-serif; */
-
-  /* text-align:justify; */
 }
 
 #emailaddr{
   font-family:  monospace;
 
 }
+
+
 
 </style>
 <template>

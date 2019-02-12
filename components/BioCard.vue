@@ -6,27 +6,26 @@
   border: 1px solid black;
   margin: 0 auto;
 }
-/* .box{
-  float:right
-} */
+
 .image{
   margin: 0 auto;
   width: 100%;
 }
 
-.level{
-  margin-top: 20px;
-}
+
 
 .content{
   font-family: 'Alegreya', serif;
   margin:0 auto;
-  max-width: 400px;
-  min-width: 200px;
+  /* max-width: 400px;
+  min-width: 200px; */
 }
 
 .content h4{
   /* font-style:italic; */
+  max-width: 420px;
+  margin:0 auto;
+  padding:10px;
   text-align: center;
   font-family: 'Alegreya Sans SC', sans-serif;
 
@@ -35,6 +34,11 @@
 #emailaddr{
   font-family:  monospace;
 
+}
+
+.content p{
+  max-width:400px;
+  margin:0 auto;
 }
 
 

@@ -27,7 +27,7 @@
 .content h4{
   /* font-style:italic; */
   text-align: center;
-  justify-content: center;
+  /* justify-content: center; */
   font-family: 'Alegreya Sans SC', sans-serif;
 
 }

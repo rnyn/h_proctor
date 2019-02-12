@@ -45,31 +45,9 @@
 
 
 
-    <div class="container">
-
-      <!-- <div class="columns"> -->
-        <!-- <div class="column is-narrow"> -->
+    <!-- <div class="container"> -->
 
 
-          <!-- <figure class="image">
-            <img src="~/assets/hp-marx.jpg" alt="Hannah Proctor" id="portrait">
-          </figure> -->
-          <!-- <nav class="level is-mobile">
-            <div class="level-item has-text-centered">
-
-            <div>
-              <p class="heading">Email</p>
-              <p class="title is-size-6" id="emailaddr">proctor.hannah@gmail.com</p>
-            </div>
-            </div>
-          </nav> -->
-        <!-- </div> -->
-
-
-        <!-- <div class="column"> -->
-
-
-        <!-- <div class="box"> -->
         <div class="content">
           <figure class="image">
             <img src="~/assets/hp-marx.jpg" alt="Hannah Proctor" id="portrait">
@@ -122,12 +100,8 @@
         </div>
       </nav>
         </div>
-      <!-- </div> -->
-
-    <!-- </div> -->
 
   <!-- </div> -->
-  </div>
 
 
 

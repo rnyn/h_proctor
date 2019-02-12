@@ -16,6 +16,7 @@
 
 .content{
   font-family: 'Alegreya', serif;
+  text-align:justify;
   margin:0 auto;
   /* max-width: 400px;
   min-width: 200px; */
@@ -41,6 +42,9 @@
   margin:0 auto;
 }
 
+.level{
+  padding:10px;
+}
 
 
 </style>

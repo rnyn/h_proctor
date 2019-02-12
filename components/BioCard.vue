@@ -5,7 +5,9 @@
   box-shadow: 5px 5px 10px -2px #f12dff;
   margin: 0 auto;
 }
-
+.box{
+  border: none;
+}
 .image{
   margin: 0 auto;
   width: 100%;

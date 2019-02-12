@@ -5,8 +5,8 @@
 
 
   .navbar {
-    font-family: 'Source Code Pro', monospace;
-    font-weight:lighter;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight:600; */
   }
 
   </style>

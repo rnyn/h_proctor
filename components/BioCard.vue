@@ -71,40 +71,37 @@ h3{
 
             <h3>Revolutionary psychologies, communist neurologies, red therapies </h3>
             <p>
-            I'm broadly interested in intersections between left-wing politics and
-            psychology, histories and theories of radical psychiatry, and emotional
-            histories of the Left.
+              I'm broadly interested in intersections between left-wing politics and
+              psychology, histories and theories of radical psychiatry, and emotional
+              histories of the Left.
+
           </p>
 
           <p>
-            I'm a fellow affiliated with the ICI Berlin and teach at Bard College,
-            Berlin. I'm currently working on turning my PhD, completed at Birkbeck in
-            2016, into a monograph for the Palgrave Macmillan series 'Mental Health in
-            Historical Perspective'. <i>Psychologies in Revolution: Alexander Luria,
-            Soviet Subjectivites and Cultural History</i> situates the innovative
-            cross-disciplinary clinical research of Soviet psychologist and neurologist
-            Alexander Luria (1902-1977) in its politicised historical
+            I'm currently a fellow affiliated with the ICI Berlin. I'm working on
+            turning my PhD, completed at Birkbeck in 2016, into a monograph for the
+            Palgrave Macmillan series 'Mental Health in Historical Perspective'.
+            <i>Psychologies in Revolution: Alexander Luria, Soviet Subjectivites and Cultural
+            History</i> situates the innovative cross-disciplinary clinical research of Soviet psychologist
+            and neurologist Alexander Luria (1902-1977) in its politicised historical
             context. Eschewing a biographical approach focused on Luria as an
             individual, the book instead seeks to foreground the often marginalised
-            Soviet people - industrial workers, imprisoned murderers, rural school
-            children, deaf babies, kolkhoz members, homeless teenagers, Uzbek women,
-            orphaned teenagers, and brain-injured former soldiers - with whom his
-            clinical work brought him into contact. Luria recognised the primacy of
-            history for understanding human consciousness and his ideas about
-            subjectivity, cognition and mental health have a hitherto overlooked
-            history of their own. I've amassed a pile of material on femininity and
-            hardness - with the working title 'Stone Femme' - to which I'd like to
-            return to and keep meaning to write something about the film <i>Johnny
-            Mnemonic</i>. I'm also working on a book project focused on 'burnout' and the
-            psychic aftermaths of radical political struggles.
+            Soviet people – industrial workers, imprisoned murderers, rural school
+            children, deaf babies, homeless teenagers, Uzbek women and brain-injured
+            former soldiers – with whom his clinical work brought him into contact. I'm
+            also working on a book project for Verso on psychic aftermath of political
+            struggle. I've amassed a pile of material on femininity and hardness – with
+            the working title 'Stone Femme' – to which I hope to return at some point
+            as well.
           </p>
           <p>
-            I've written for both academic and non-academic publications on
-            topics including rayon stockings, gender and the death drive, utopian
-            pedagogy, Communist motherhood, wrinkles, the aesthetics of fMRI, Soviet
-            babies, revolutionary commemoration, British antipsychiatry, mourning, Carl
-            Jung's influence on Jordan Peterson, and Ulrike Meinhof’s brain. I'm on the
-            editorial collective of <i>Radical Philosophy</i>.
+            I've written for both academic and non-academic publications on topics
+            including rayon stockings, gender and the death drive, utopian pedagogy,
+            Communist motherhood, wrinkles, the aesthetics of fMRI, Soviet babies,
+            revolutionary commemoration, British antipsychiatry, mourning, Carl Jung's
+            influence on Jordan Peterson, and Ulrike Meinhof’s brain. I'd like to write
+            more about film. I'm on the editorial collective of <i>Radical Philosophy</i>.
+
 
 
 

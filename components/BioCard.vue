@@ -2,7 +2,7 @@
  #portrait {
   max-width:300px;
   padding:10px;
-  box-shadow: 5px 5px 10px -2px #B62D65;
+  box-shadow: 5px 5px 10px -2px #f12dff;
   margin: 0 auto;
 }
 

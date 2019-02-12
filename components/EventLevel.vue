@@ -1,6 +1,6 @@
 <style scoped>
 .event-link{
-  color:#FB3C62;
+  color:#f12dff;
   text-decoration:underline;
 }
 .event-link:hover{

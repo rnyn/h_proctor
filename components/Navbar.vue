@@ -1,6 +1,6 @@
 <style scoped>
 #home:active{
-  background-color: #FB3C62;
+  background-color: #f12dff;
   }
 
 

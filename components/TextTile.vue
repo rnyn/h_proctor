@@ -41,9 +41,9 @@
 text-shadow: 1px 1px 2px pink, 0 0 1em blue, 0 0 0.1em blue;
 }
 .image:hover h3{
-  color:#FB3C62;
+  color:#f12dff;
    background-color:rgb(0,0,0,0.9);
-   text-shadow: .5px .5px 1px pink;
+   /* text-shadow: .5px .5px 1px pink; */
 }
 
 h3 {

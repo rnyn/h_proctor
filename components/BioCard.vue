@@ -22,6 +22,7 @@
   font-family: 'Alegreya', serif;
   margin:0 auto;
   max-width: 400px;
+  min-width: 200px;
 }
 
 .content h4{
@@ -45,7 +46,6 @@
 
 
 
-    <!-- <div class="container"> -->
 
 
         <div class="content">
@@ -101,7 +101,6 @@
       </nav>
         </div>
 
-  <!-- </div> -->
 
 
 

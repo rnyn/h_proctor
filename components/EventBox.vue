@@ -1,11 +1,14 @@
 <style scoped>
+
+
 .media-left{
   margin:auto;
   padding-right:5px;
 }
 
 #event-link{
-text-shadow: .25px .25px .5px black;
+color:black;
+text-shadow: .2px .2px .2px gray;
 
 }
 
@@ -17,8 +20,7 @@ text-shadow: .25px .25px .5px black;
 .box{
   padding: 1px;
   margin-bottom: 5px;
-  /* max-width: 1080px; */
-  /* background-color:#FB3C62; */
+
   background-color: black;
   border: 1px;
 }
@@ -31,7 +33,6 @@ text-shadow: .25px .25px .5px black;
 }
 #date{
   color:white;
-  /* font-family: 'IBM Plex Mono', monospace; */
   font-family: monospace;
 }
 .media-left p{
@@ -60,8 +61,8 @@ text-shadow: .25px .25px .5px black;
         <div class="content">
           <div class="media-right">
             <strong>{{ eventTitle }}</strong><br><a v-bind:href="url" target="_blank" id="event-link">{{location}}</a>
-            <i><div v-if="title"><span v-text="title"></span></div></i>
-              <div v-if="abstract"><span v-text="abstract"></span></div>
+            <div v-if="title">'<span v-text="title"></span>'</div>
+              <div v-if="abstract">> <span v-text="abstract"></span></div>
 
 
           </div>

@@ -65,7 +65,7 @@ h2 {
    color:white;
    text-shadow: 1px 1px 2px black;
    font-size:25px;
-   background-color:rgb(0,0,0,0.3);
+   background-color:rgb(0,0,0,0.25);
    z-index: 1;
 
 }

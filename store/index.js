@@ -34,6 +34,26 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 22,
+      slug: "resistance",
+      title: "Resistance",
+      thumbnail: require("~/assets/ici-resistance.jpg"),
+      publication: "Re- An Errant Glossary",
+      abstract:
+        "Jordan Peterson’s message is simple: ‘evil’ is endemic to humanity and the domination of some people over others is biologically grounded",
+      year: "2019",
+      month: "01",
+      url:
+        "https://www.ici-berlin.org/oa/ci-15/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Resistance",
+        content: "",
+        keywords: ""
+      }
+    },
+
+    {
       id: 21,
       slug: "tribune-peterson",
       title: "A Brief History of Jordan Peterson",
@@ -453,8 +473,23 @@ const makeStore = () => {
               url: "https://psybi-berlin.de/event/divided-selves-british-antipsychiatry-and-psychoanalysis/",
               meta: {
                 author: "Hannah Proctor",
-                title: "Lecture",
+                title: "Divided Selves: British Anti-Psychiatry and Psychoanalysis",
                 description: "Inivited Lecture Psychoanalytische Bibliothek. In Cold War Freud: Psychoanalysis in an Age of Catastrophes, Dagmar Herzog contends that in spite of its provocative title Deleuze and Guattari’s seminal Anti-Oedipus (1972) ’needs to be understood also as a psychoanalytic text, not just an attack on psychoanalysis.‘ This paper will make a similar argument with regards to British antipsychiatry in the late 1960s and 1970s. Although psychoanalytic concepts and practices were vocally critiqued by British antipsychiatrists and those involved with experimental therapeutic communities in Britain, this paper will insist that psychoanalysis remained, though sometimes obliquely or in repurposed forms, an influence and inspiration to people involved in these movements."
+              }
+            },
+            {
+              id: 27,
+              eventTitle: "Reading",
+              location: "Flutgraben e.V.",
+              title: "Narcissism of Small Differences",
+              abstract: "How I stopped worrying and learned to hate Crudo",
+              year: "2018",
+              month: "12",
+              url: "https://web.facebook.com/AftetheEclipses/",
+              meta: {
+                author: "Hannah Proctor",
+                title: "Narcissism of Small Differences",
+                description: "Discussion of narcissism in Crudo by Olivia Lang"
               }
             },
 

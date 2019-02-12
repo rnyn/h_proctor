@@ -27,7 +27,6 @@
 .content h4{
   /* font-style:italic; */
   text-align: center;
-  /* justify-content: center; */
   font-family: 'Alegreya Sans SC', sans-serif;
 
 }
@@ -48,7 +47,7 @@
 
     <div class="container">
 
-      <div class="columns">
+      <!-- <div class="columns"> -->
         <!-- <div class="column is-narrow"> -->
 
 
@@ -67,7 +66,7 @@
         <!-- </div> -->
 
 
-        <div class="column">
+        <!-- <div class="column"> -->
 
 
         <!-- <div class="box"> -->
@@ -125,9 +124,9 @@
         </div>
       <!-- </div> -->
 
-    </div>
+    <!-- </div> -->
 
-  </div>
+  <!-- </div> -->
   </div>
 
 

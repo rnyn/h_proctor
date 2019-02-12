@@ -2,12 +2,12 @@
  #portrait {
   max-width:300px;
   padding:10px;
-  box-shadow: 5px 5px 10px -2px #f12dff;
+  /* box-shadow: 5px 5px 10px -2px #f12dff; */
   margin: 0 auto;
 }
-.box{
-  border: none;
-}
+/* .box{
+  float:right
+} */
 .image{
   margin: 0 auto;
   width: 100%;
@@ -19,7 +19,8 @@
 
 .content{
   font-family: 'Alegreya', serif;
-
+  margin:0 auto;
+  width: 40%;
 }
 
 .content h3{
@@ -46,13 +47,13 @@
     <div class="container">
 
       <div class="columns">
-        <div class="column is-narrow">
+        <!-- <div class="column is-narrow"> -->
 
 
-          <figure class="image">
+          <!-- <figure class="image">
             <img src="~/assets/hp-marx.jpg" alt="Hannah Proctor" id="portrait">
-          </figure>
-          <nav class="level is-mobile">
+          </figure> -->
+          <!-- <nav class="level is-mobile">
             <div class="level-item has-text-centered">
 
             <div>
@@ -60,16 +61,18 @@
               <p class="title is-size-6" id="emailaddr">proctor.hannah@gmail.com</p>
             </div>
             </div>
-          </nav>
-        </div>
+          </nav> -->
+        <!-- </div> -->
 
 
-        <div class="column is-half">
+        <div class="column">
 
 
-        <div class="box">
+        <!-- <div class="box"> -->
         <div class="content">
-
+          <figure class="image">
+            <img src="~/assets/hp-marx.jpg" alt="Hannah Proctor" id="portrait">
+          </figure>
 
             <h3>Revolutionary psychologies, communist neurologies, red therapies </h3>
             <p>
@@ -108,8 +111,17 @@
 
 
       </p>
+      <nav class="level is-mobile">
+        <div class="level-item has-text-centered">
+
+        <div>
+          <p class="heading">Email</p>
+          <p class="title is-size-6" id="emailaddr">proctor.hannah@gmail.com</p>
         </div>
-      </div>
+        </div>
+      </nav>
+        </div>
+      <!-- </div> -->
 
     </div>
 

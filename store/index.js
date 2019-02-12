@@ -37,7 +37,7 @@ const makeStore = () => {
       id: 21,
       slug: "tribune-peterson",
       title: "A Brief History of Jordan Peterson",
-      thumbnail: "images/tribune-peterson.jpg",
+      thumbnail: require("~/assets/tribune-peterson.jpg"),
       publication: "Tribune",
       abstract:
         "Jordan Peterson’s message is simple: ‘evil’ is endemic to humanity and the domination of some people over others is biologically grounded",
@@ -56,7 +56,7 @@ const makeStore = () => {
       id: 20,
       slug: "mad-world",
       title: "Mad World: Radical Psychiatry and 1968",
-      thumbnail: "images/mad-world.jpg",
+      thumbnail: require("~/assets/mad-world.jpg"),
       publication: "Verso Blog",
       abstract:
         "On the circulation of radical psychiatric theories and influence of radical psychiatric practices in the social movements of the late sixties and early seventies. Sex, drugs, giant cucumbers and diagnoses of a crazy society.",
@@ -75,7 +75,7 @@ const makeStore = () => {
       id: 19,
       slug: "soviet-babies",
       title: "Soviet Babies",
-      thumbnail: "images/soviet-babies.jpg",
+      thumbnail: require("~/assets/soviet-babies.jpg"),
       publication: "Art Talk",
       abstract: "Can an adult really access their own childhood sensations? Can an adult know how a baby experiences the world? Do all babies perceive the world identically? Are they all born alike? Does the kind of world a baby inhabits influence even its earliest interactions with the extrauterine world? What exactly is a baby anyway? This is an essay about some Soviet understandings of early infancy.",
       year: "2018",

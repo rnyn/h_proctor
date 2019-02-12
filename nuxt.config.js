@@ -32,7 +32,7 @@ module.exports = {
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css' },
       // { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Open+Sans|Source+Code+Pro":400,700' },
       // { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Abel|Anton|IBM+Plex+Mono:400,400i|Oswald|Work+Sans:800' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Alegreya|Alegreya+Sans|Roboto' }
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Alegreya|Alegreya+Sans|Alegreya+Sans+SC|Alegreya+SC|Roboto' }
       // { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },

@@ -2,6 +2,9 @@
 #home:active{
   background-color: #f12dff;
   }
+.navbar-item:active{
+  background-color: #f12dff;
+  }
 
 
   .navbar {

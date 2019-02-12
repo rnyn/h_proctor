@@ -24,10 +24,11 @@
   width: 40%;
 }
 
-.content h3{
+.content h4{
   /* font-style:italic; */
   text-align: center;
-  font-family: 'Alegreya Sans', sans-serif;
+  justify-content: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
 
 }
 
@@ -75,7 +76,7 @@
             <img src="~/assets/hp-marx.jpg" alt="Hannah Proctor" id="portrait">
           </figure>
 
-            <h3>Revolutionary psychologies, communist neurologies, red therapies </h3>
+            <h4>Revolutionary psychologies, communist neurologies, red therapies </h4>
             <p>
               I'm broadly interested in intersections between left-wing politics and
               psychology, histories and theories of radical psychiatry, and emotional

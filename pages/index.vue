@@ -11,7 +11,7 @@ body{
 <template>
 <section>
 <div class="container">
-  <img src="images/hp-hero.jpg" id="hero">
+  <img src="~/assets/hp-hero.jpg" id="hero">
 </div>
 </section>
 </template>

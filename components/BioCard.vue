@@ -48,7 +48,7 @@ h3{
 
 
           <figure class="image">
-            <img src="images/hp-marx.jpg" alt="Hannah Proctor" id="portrait">
+            <img src="~/assets/hp-marx.jpg" alt="Hannah Proctor" id="portrait">
           </figure>
           <nav class="level is-mobile">
             <div class="level-item has-text-centered">

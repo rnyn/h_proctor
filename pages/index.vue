@@ -5,7 +5,7 @@ body{
  }
 
 #homediv{
-  margin-top:100px;
+  margin-top:50px;
 }
 #homeimg{
 
@@ -13,7 +13,7 @@ body{
   max-width:612px;
 }
 #homeimg-caption{
-  
+
   font-family: 'Alegreya SC', serif;
 
 }

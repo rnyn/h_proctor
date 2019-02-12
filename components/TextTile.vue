@@ -11,8 +11,8 @@
 
 .tile {
   padding:1px;
-  max-width:400px;
-  max-height:500px;
+  max-width:300px;
+  max-height:400px;
   float: left;
   position: relative;
   margin: 0 auto;

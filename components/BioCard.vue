@@ -9,20 +9,20 @@
 
 .image{
   margin: 0 auto;
-  width: 100%;
+  /* width: 100%; */
 }
 
 
 
-.content{
+.container{
   font-family: 'Alegreya', serif;
   text-align:justify;
   margin:0 auto;
-  /* max-width: 400px;
-  min-width: 200px; */
+  max-width: 800px;
+  min-width: 300px;
 }
 
-.content h4{
+.container h4{
   /* font-style:italic; */
   max-width: 420px;
   margin:0 auto;
@@ -56,12 +56,13 @@
 
 
 
-        <div class="content">
+        <div class="container">
           <figure class="image">
             <img src="~/assets/hp-marx.jpg" alt="Hannah Proctor" id="portrait">
           </figure>
 
             <h4>Revolutionary psychologies, communist neurologies, red therapies </h4>
+            <div class="content">
             <p>
               I'm broadly interested in intersections between left-wing politics and
               psychology, histories and theories of radical psychiatry, and emotional
@@ -98,6 +99,7 @@
 
 
       </p>
+    </div>
       <nav class="level is-mobile">
         <div class="level-item has-text-centered">
 

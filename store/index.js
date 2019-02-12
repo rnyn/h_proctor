@@ -44,7 +44,7 @@ const makeStore = () => {
       year: "2018",
       month: "09",
       url:
-        "https://tribunemag.co.uk/relaunch-preview",
+        "https://tribunemag.co.uk/2019/01/a-brief-history-of-jordan-peterson",
       meta: {
         author: "Hannah Proctor",
         title: "A Brief History of Jordan Peterson",
@@ -442,6 +442,38 @@ const makeStore = () => {
       getEvents({ commit }) {
         commit("updateEvents", {
           events: [
+            {
+              id: 27,
+              eventTitle: "Lecture",
+              location: "Psychoanalytische Bibliothek",
+              title: "Divided Selves: British Anti-Psychiatry and Psychoanalysis",
+              abstract: "On RD Laing's psychoanalytic influences",
+              year: "2019",
+              month: "02",
+              url: "https://psybi-berlin.de/event/divided-selves-british-antipsychiatry-and-psychoanalysis/",
+              meta: {
+                author: "Hannah Proctor",
+                title: "Lecture",
+                description: "Inivited Lecture Psychoanalytische Bibliothek. In Cold War Freud: Psychoanalysis in an Age of Catastrophes, Dagmar Herzog contends that in spite of its provocative title Deleuze and Guattari’s seminal Anti-Oedipus (1972) ’needs to be understood also as a psychoanalytic text, not just an attack on psychoanalysis.‘ This paper will make a similar argument with regards to British antipsychiatry in the late 1960s and 1970s. Although psychoanalytic concepts and practices were vocally critiqued by British antipsychiatrists and those involved with experimental therapeutic communities in Britain, this paper will insist that psychoanalysis remained, though sometimes obliquely or in repurposed forms, an influence and inspiration to people involved in these movements."
+              }
+            },
+
+            {
+              id: 26,
+              eventTitle: "Lecture",
+              location: "Leuphana Universität Lüneburg",
+              title: "Tearing off the Straight Jackets: the Gay Liberation Front and Radical Psychiatry",
+              abstract: "On the Gay Liberation Front's counter-psychiatry group",
+              year: "2018",
+              month: "11",
+              url: "https://www.leuphana.de/fileadmin/user_upload/ZentraleEinrichtungen/frauenb/pdf/Flyer/Plakat_-_Tearing_off_the_Straight_Jackets.pdf",
+              meta: {
+                author: "Hannah Proctor",
+                title: "Lecture",
+                description: "Inivited Lecture Leuphana Universität Lüneburg"
+              }
+            },
+
             {
               id: 25,
               eventTitle: "It’s About Time",

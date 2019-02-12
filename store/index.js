@@ -37,7 +37,7 @@ const makeStore = () => {
       id: 21,
       slug: "tribune-peterson",
       title: "A Brief History of Jordan Peterson",
-      thumbnail: "images/tribune-peterson.jpg",
+      thumbnail: "~/assets/tribune-peterson.jpg",
       publication: "Tribune",
       abstract:
         "Jordan Peterson’s message is simple: ‘evil’ is endemic to humanity and the domination of some people over others is biologically grounded",

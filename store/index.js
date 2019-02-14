@@ -33,6 +33,26 @@ const makeStore = () => {
       getTexts({ commit }) {
         commit("updateTexts", {
   texts: [
+
+    {
+      id: 23,
+      slug: "revolutionary-romance",
+      title: "Revolutionary Romance",
+      thumbnail: require("~/assets/revolutionary-romance.jpg"),
+      publication: "Jacobin",
+      abstract:
+        "Why should extravagant pleasures and intense feelings be reserved for the bourgeoisie?",
+      year: "2019",
+      month: "02",
+      url:
+        "https://jacobinmag.com/2019/02/russian-revolution-love-kollontai-luxemburg",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Revolutionary Romance",
+        content: "",
+        keywords: "Jacobin, Alexandra Kollontai, Rosa Luxembourg, Soviet Union"
+      }
+    },
     {
       id: 22,
       slug: "resistance",

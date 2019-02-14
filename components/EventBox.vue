@@ -53,7 +53,7 @@ text-shadow: .2px .2px .2px gray;
   <div class="box">
     <article class="media">
       <div class="media-left">
-        <p id="date">{{year}}<br>{{month}} </p>
+        <p id="date">{{year}}<br>–<br>{{month}} </p>
         <!-- <span class="tag is-info is-medium">{{year}}/{{month}}</span> -->
 
       </div>

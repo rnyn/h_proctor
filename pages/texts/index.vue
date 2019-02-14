@@ -19,7 +19,7 @@
                 <!-- <article class="TextCard"> -->
                     <!-- <div class="tile-container"> -->
                     <!-- <TextCard v-for="text in texts" :key="text.slug" :id="text.id" :thumbnail="text.thumbnail" :title="text.title" :slug="text.slug" :abstract="text.abstract" :publication="text.publication" /> -->
-                    <TextTile v-for="text in texts" :key="text.id" :id="text.id" :thumbnail="text.thumbnail" :title="text.title" :abstract="text.abstract" :publication="text.publication" :year="text.year" :month="text.month" :url="text.url" />
+                    <TextTile v-cloak v-for="text in texts" :key="text.id" :id="text.id" :thumbnail="text.thumbnail" :title="text.title" :abstract="text.abstract" :publication="text.publication" :year="text.year" :month="text.month" :url="text.url" />
                     <!-- </div> -->
 
                 <!-- </article> -->

@@ -9,7 +9,7 @@ body{
 }
 #homeimg{
 
-  border: 0.75px solid;
+  border: 1px solid;
   max-width:612px;
 }
 #homeimg-caption{

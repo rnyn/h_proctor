@@ -1,8 +1,6 @@
 <style scoped>
  #portrait {
   max-width:300px;
-  /* padding:10px; */
-  /* box-shadow: 5px 5px 10px -2px #f12dff; */
   border: 1px solid black;
   margin: 0 auto;
 }
@@ -40,6 +38,7 @@
 .content p{
   max-width:400px;
   margin:0 auto;
+  padding-top:10px;
 }
 
 .level{

@@ -4,7 +4,7 @@
   display:flex;
   align-items: center;
   flex-wrap:wrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 [v-cloak] > * {display:none;}

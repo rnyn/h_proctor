@@ -2,7 +2,7 @@
   <template>
     <section class="section">
       <div class="container">
-          <EventLevel />
+          <EventLevel2 />
   <div class="columns">
       <div class="column is-half">
 
@@ -63,11 +63,11 @@
   </template>
 
   <script>
-  import EventLevel from '@/components/EventLevel'
+  import EventLevel2 from '@/components/EventLevel2'
   export default {
     components:  {
 
-      EventLevel
+      EventLevel2
     }
   }
 

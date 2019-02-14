@@ -28,12 +28,13 @@ text-shadow: .2px .2px .2px gray;
   background-color:white;
 }
 .content{
-  padding-left:10px;
+  padding-left:5px;
   padding-top:5px;
 }
 #date{
   color:white;
   font-family: monospace;
+
 }
 .media-left p{
   font-size: .85em;

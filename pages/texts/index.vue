@@ -1,10 +1,13 @@
 <style scoped>
-/* .tile-container{
 
-  justify-content: center;
+#tile-container{
+  display:flex;
   align-items: center;
-} */
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+}
 
+[v-cloak] > * {display:none;}
 
 </style>
 
@@ -12,14 +15,14 @@
 
 
 <section class="section">
-<div class="container">
+<div class="container" v-cloak id="tile-container">
 
 
                 <!-- <article class="TextTile"> -->
                 <!-- <article class="TextCard"> -->
                     <!-- <div class="tile-container"> -->
                     <!-- <TextCard v-for="text in texts" :key="text.slug" :id="text.id" :thumbnail="text.thumbnail" :title="text.title" :slug="text.slug" :abstract="text.abstract" :publication="text.publication" /> -->
-                    <TextTile v-cloak v-for="text in texts" :key="text.id" :id="text.id" :thumbnail="text.thumbnail" :title="text.title" :abstract="text.abstract" :publication="text.publication" :year="text.year" :month="text.month" :url="text.url" />
+                    <TextTile v-for="text in texts" :key="text.id" :id="text.id" :thumbnail="text.thumbnail" :title="text.title" :abstract="text.abstract" :publication="text.publication" :year="text.year" :month="text.month" :url="text.url" />
                     <!-- </div> -->
 
                 <!-- </article> -->

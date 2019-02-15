@@ -18,7 +18,7 @@
           <div class="content"><blockquote><h5>Spellbound</h5>diffrakt | zentrum für theoretische peripherie<br>Berlin<br>2018-ongoing</blockquote></div>
         </div>
       </a>
-
+<hr>
         <a href="https://weareunderthemoon.tumblr.com/" target="_blank">
       <div class="card">
         <div class="image is-4by3">

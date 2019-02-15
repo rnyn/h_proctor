@@ -7,21 +7,24 @@
 } */
 .image{
   font-family: 'Alegreya', serif;
+  /* background-image: url('~/assets/bg-6.gif'); */
 }
 
-.tile {
+.tile{
   padding:1px;
-  max-width:300px;
-  max-height:400px;
-  float: left;
+  width:300px;
+  /* max-height:400px; */
+  /* float: left;
   position: relative;
   margin: 0 auto;
+
+  /* margin-right:20px; */
   margin-top:20px;
-  margin-right:20px;
+}
+#image-tile{
   background-color: black;
 
 }
-
 
 
 .image:hover:after {

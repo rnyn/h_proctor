@@ -6,6 +6,7 @@ body{
 
 #homediv{
   margin-top:50px;
+  max-height:100%;
 }
 #homeimg{
 

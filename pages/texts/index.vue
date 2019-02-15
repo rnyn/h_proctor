@@ -7,15 +7,15 @@
   justify-content: space-around;
 }
 
-[v-cloak] > * {display:none;}
+[v-cloak] {display:none;}
 
 </style>
 
 <template>
 
 
-<section class="section">
-<div class="container" v-cloak id="tile-container">
+<section class="section" v-cloak>
+<div class="container" id="tile-container">
 
 
                 <!-- <article class="TextTile"> -->

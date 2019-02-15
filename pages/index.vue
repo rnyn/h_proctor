@@ -5,8 +5,8 @@ body{
  }
 
 #homediv{
-  margin-top:5%;
-  max-height:70%;
+  /* margin-top:50px;
+  max-height:512px; */
 }
 #homeimg{
 
@@ -22,8 +22,7 @@ body{
 
 
 <template>
-<section>
-  <!-- <div class="container"> -->
+<section class="section">
   <div class="content" id="homediv">
 <figure class="image">
   <img src="~/assets/moscow3.jpg" id="homeimg">
@@ -31,6 +30,6 @@ body{
 </figure>
 
   </div>
-<!-- </div> -->
+
 </section>
 </template>

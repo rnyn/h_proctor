@@ -5,12 +5,12 @@ body{
  }
 
 #homediv{
-  margin-top:50px;
+  margin-top:5%;
   max-height:70%;
 }
 #homeimg{
 
-  border: 1px solid;
+  border: 2px solid;
   max-width:512px;
 }
 #homeimg-caption{

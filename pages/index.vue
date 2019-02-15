@@ -6,12 +6,12 @@ body{
 
 #homediv{
   margin-top:50px;
-  max-height:100%;
+  max-height:70%;
 }
 #homeimg{
 
   border: 1px solid;
-  max-width:612px;
+  max-width:512px;
 }
 #homeimg-caption{
 

@@ -11,9 +11,6 @@
                 <article class="EventBox">
 
 
-
-
-                    <!-- <EventTable v-for="event in events" :key="event.id" :id="event.id" :location="event.location" :title="event.title" :month="event.month" :abstract="event.abstract" :url="event.url" :year="event.year" /> -->
                     <EventBox v-for="event in events" :key="event.id" :id="event.id" :eventTitle="event.eventTitle" :location="event.location" :title="event.title" :month="event.month" :abstract="event.abstract" :url="event.url" :year="event.year" />
 
 

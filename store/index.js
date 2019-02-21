@@ -33,7 +33,25 @@ const makeStore = () => {
       getTexts({ commit }) {
         commit("updateTexts", {
   texts: [
-
+    {
+      id: 24,
+      slug: "formal-experimentation",
+      title: "Formal Experimentation",
+      thumbnail: require("~/assets/formal-experimentation.jpg"),
+      publication: "History of the Human Sciences",
+      abstract:
+        "One of the most persuasive arguments Wall advances in The British Anti-Psychiatrists, and the book’s main intervention, is an insistence on the importance of acknowledging continuities and connections between the theories, practices and communities of the mainstream psy- disciplines and those of anti-psychiatry.",
+      year: "2019",
+      month: "02",
+      url:
+        "http://www.histhum.com/formal-experimentation/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Revolutionary Romance",
+        content: "",
+        keywords: "History of Human Sciences, R.D. Laing, anti-psychiatry, psychiatry, psychology, review, Oisín Wall"
+      }
+    },
     {
       id: 23,
       slug: "revolutionary-romance",

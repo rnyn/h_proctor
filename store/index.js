@@ -38,7 +38,7 @@ const makeStore = () => {
       slug: "macabre-dancing",
       title: "Macabre Dancing: Review of Die Kinder der Toten",
       thumbnail: require("~/assets/macabre-dancing.jpg"),
-      publication: "History of the Human Sciences",
+      publication: "Another Gaze",
       abstract:
         "Elfriede Jelinek’s novel Die Kinder der Toten, which has yet to be translated into English, tends to be described in forbidding terms: long, fractured, obscure, genre-bending, kitsch, pun-filled, perspective-switching, surreal.",
       year: "2019",

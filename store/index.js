@@ -34,6 +34,24 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 25,
+      slug: "macabre-dancing",
+      title: "Macabre Dancing: Review of Die Kinder der Toten",
+      thumbnail: require("~/assets/macabre-dancing.jpg"),
+      publication: "History of the Human Sciences",
+      abstract:
+        "Elfriede Jelinek’s novel Die Kinder der Toten, which has yet to be translated into English, tends to be described in forbidding terms: long, fractured, obscure, genre-bending, kitsch, pun-filled, perspective-switching, surreal.",
+      year: "2019",
+      month: "02",
+      url:
+        "http://www.anothergaze.com/macabre-dancing-die-kinder-der-toten-children-dead-berlinale/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Macabre Dancing: Review of Die Kinder der Toten",
+        content: "",
+        keywords: "Elfriede Jelinek, Die Kinder der Toten, Berlinale, Review, Another Gaze"
+      }
+    },{
       id: 24,
       slug: "formal-experimentation",
       title: "Formal Experimentation",

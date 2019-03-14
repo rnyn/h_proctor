@@ -34,6 +34,25 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 26,
+      slug: "communist-feelings",
+      title: "Communist Feelings (with Larne Abse Gogarty)",
+      thumbnail: require("~/assets/communist-feelings.jpeg"),
+      publication: "New Socialist",
+      abstract:
+        "This piece originated in a shared interest in 1956 as a turning point in British and US communism.",
+      year: "2019",
+      month: "03",
+      url:
+        "https://newsocialist.org.uk/communist-feelings-lessing-gornick/",
+      meta: {
+        author: "Hannah Proctor, Larne Abse Gogarty",
+        title: "Communist Feelings",
+        content: "",
+        keywords: "New Socialist, Larne Abse Gogarty, theory, Marxism, culture, Doris Lessing, Vivian Gornick"
+      }
+    },
+    {
       id: 25,
       slug: "macabre-dancing",
       title: "Macabre Dancing: Review of Die Kinder der Toten",
@@ -51,7 +70,8 @@ const makeStore = () => {
         content: "",
         keywords: "Elfriede Jelinek, Die Kinder der Toten, Berlinale, Review, Another Gaze"
       }
-    },{
+    },
+    {
       id: 24,
       slug: "formal-experimentation",
       title: "Formal Experimentation",

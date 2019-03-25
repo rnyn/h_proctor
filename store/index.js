@@ -35,6 +35,25 @@ const makeStore = () => {
   texts: [
     {
       id: 26,
+      slug: "review-woman-myth",
+      title: "Angela M. Sells, Sabina Spielrein: The Woman and the Myth",
+      thumbnail: require("~/assets/review-woman-myth.jpg"),
+      publication: "Psychoanalysis and History",
+      abstract:
+        "Angela M. Sells's new book Sabina Spielrein: The Woman and the Myth recalls and sometimes explicitly draws on feminist work from the 1980s and 1990s that reappraised the position of women – both analysts and analysands – in the history of psychoanalysis.",
+      year: "2019",
+      month: "03",
+      url:
+        "https://www.euppublishing.com/doi/full/10.3366/pah.2019.0284",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Angela M. Sells, Sabina Spielrein: The Woman and the Myth",
+        content: "",
+        keywords: "Psychoanalysis and History, Sabina Spielrein, Angela M. Sells, review, Vienna, Carl Jung, Hélène Cixous, Sigmund Freud"
+      }
+    },
+    {
+      id: 26,
       slug: "communist-feelings",
       title: "Communist Feelings (with Larne Abse Gogarty)",
       thumbnail: require("~/assets/communist-feelings.jpeg"),

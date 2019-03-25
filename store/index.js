@@ -93,7 +93,7 @@ const makeStore = () => {
     {
       id: 24,
       slug: "formal-experimentation",
-      title: "Formal Experimentation",
+      title: "Oisín Wall, The British Anti-psychiatrists",
       thumbnail: require("~/assets/formal-experimentation.jpg"),
       publication: "History of the Human Sciences",
       abstract:

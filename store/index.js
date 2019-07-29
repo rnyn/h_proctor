@@ -786,37 +786,37 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
               }
             },
 
-            {
-              id: 18,
-              eventTitle: "Politics and Psychoanalysis",
-              location: "Sandberg Institute, Amsterdam",
-              title: "The Communist Unconscious",
-              abstract: "Reading Freud with Marx in the Soviet Union",
-              year: "2018",
-              month: "02",
-              url: "",
-              meta: {
-                author: "Hannah Proctor",
-                title: "Communist Unconscious",
-                description: "Freud Marx Soviet Union"
-              }
-            },
-
-            {
-              id: 17,
-              eventTitle: "Politics and Psychoanalysis",
-              location: "Sandberg Institute, Amsterdam",
-              title: "The Communist Unconscious",
-              abstract: "Reading Freud with Marx in the Soviet Union",
-              year: "2018",
-              month: "02",
-              url: "",
-              meta: {
-                author: "Hannah Proctor",
-                title: "Communist Unconscious",
-                description: "Freud Marx Soviet Union"
-              }
-            },
+            // {
+            //   id: 18,
+            //   eventTitle: "Politics and Psychoanalysis",
+            //   location: "Sandberg Institute, Amsterdam",
+            //   title: "The Communist Unconscious",
+            //   abstract: "Reading Freud with Marx in the Soviet Union",
+            //   year: "2018",
+            //   month: "02",
+            //   url: "",
+            //   meta: {
+            //     author: "Hannah Proctor",
+            //     title: "Communist Unconscious",
+            //     description: "Freud Marx Soviet Union"
+            //   }
+            // },
+            //
+            // {
+            //   id: 17,
+            //   eventTitle: "Politics and Psychoanalysis",
+            //   location: "Sandberg Institute, Amsterdam",
+            //   title: "The Communist Unconscious",
+            //   abstract: "Reading Freud with Marx in the Soviet Union",
+            //   year: "2018",
+            //   month: "02",
+            //   url: "",
+            //   meta: {
+            //     author: "Hannah Proctor",
+            //     title: "Communist Unconscious",
+            //     description: "Freud Marx Soviet Union"
+            //   }
+            // },
 
             {
               id: 16,

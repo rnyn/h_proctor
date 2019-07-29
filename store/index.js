@@ -933,21 +933,21 @@ Gendered Emotions in Right-wing Representations of Militant Leftist Women",
               }
             },
 
-            {
-              id: 9,
-              eventTitle: "Objects of Feminism: Book Launch",
-              location: "diffrakt, Berlin",
-              title: "Stone Femme",
-              abstract: "",
-              year: "2017",
-              month: "08",
-              url: "http://diffrakt.space/en/objects-of-feminism/",
-              meta: {
-                author: "Hannah Proctor",
-                title: "Stone Femme",
-                description: "Objects of Feminism Book Launch"
-              }
-            },
+            // {
+            //   id: 9,
+            //   eventTitle: "Objects of Feminism: Book Launch",
+            //   location: "diffrakt, Berlin",
+            //   title: "Stone Femme",
+            //   abstract: "",
+            //   year: "2017",
+            //   month: "08",
+            //   url: "http://diffrakt.space/en/objects-of-feminism/",
+            //   meta: {
+            //     author: "Hannah Proctor",
+            //     title: "Stone Femme",
+            //     description: "Objects of Feminism Book Launch"
+            //   }
+            // },
 
             {
               id: 8,

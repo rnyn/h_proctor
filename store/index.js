@@ -34,6 +34,25 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 27,
+      slug: "exhausting-concepts",
+      title: "Review: Pascal Chabot, Global Burnout",
+      thumbnail: require("~/assets/exhausting-concepts.jpg"),
+      publication: "Radical Philosophy",
+      abstract:
+        "Philosophers have often described society as being either physically sick or mentally ill, but the diagnoses differ. Metaphors proliferate and medical paradigms shift but neurological and psychological pathologies seem to predominate.",
+      year: "2019",
+      month: "04",
+      url:
+        "https://www.radicalphilosophy.com/reviews/individual-reviews/exhausting-concepts",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Exhausting Concepts",
+        content: "",
+        keywords: "Philosophy, Catherine Malabou, Mark Fisher, Tiziana Terranova, Pascal Chabot, book review"
+      }
+    },
+    {
       id: 26,
       slug: "review-woman-myth",
       title: "Angela M. Sells, Sabina Spielrein: The Woman and the Myth",

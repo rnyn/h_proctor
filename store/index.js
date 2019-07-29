@@ -34,9 +34,28 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 28,
+      slug: "varda-obit",
+      title: "Agnès Varda (1928–2019)",
+      thumbnail: require("~/assets/varda-obit.jpg"),
+      publication: "Jacobin",
+      abstract:
+        "Agnès Varda’s films evinced a love of, rather than mere fascination with, people.",
+      year: "2019",
+      month: "04",
+      url:
+        "https://www.jacobinmag.com/2019/04/agnes-varda-obituary-filmmaking",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Agnès Varda (1928–2019)",
+        content: "",
+        keywords: "film, obituary, obit, Agnès Varda, film, photography"
+      }
+    },
+    {
       id: 27,
       slug: "exhausting-concepts",
-      title: "Review: Pascal Chabot, Global Burnout",
+      title: "Pascal Chabot, Global Burnout",
       thumbnail: require("~/assets/exhausting-concepts.jpg"),
       publication: "Radical Philosophy",
       abstract:

@@ -34,6 +34,25 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 29,
+      slug: "marx-freud",
+      title: "From Marx to Freud",
+      thumbnail: require("~/assets/marx-freud.jpeg"),
+      publication: "Tribune",
+      abstract:
+        "In 1969, Herbert Marcuse's ‘Essay on Liberation’ combined Marx and Freud, and inspired thousands of radicals. How liberating is it fifty years later?",
+      year: "2019",
+      month: "05",
+      url:
+        "https://tribunemag.co.uk/2019/05/from-marx-to-freud",
+      meta: {
+        author: "Hannah Proctor",
+        title: "From Marx to Freud",
+        content: "",
+        keywords: "Karl Marx, Sigmund Freud, Herbert Marcuse, Essay on Liberation, politics, sexuality"
+      }
+    },
+    {
       id: 28,
       slug: "varda-obit",
       title: "Agnès Varda (1928–2019)",

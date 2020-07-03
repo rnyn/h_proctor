@@ -36,11 +36,11 @@ const makeStore = () => {
     {
       id: 30,
       slug: "bleierne-zeit",
-      title: "Women on the Edge: History, Temporality, Sisterhood and Political Militancy in Marge Piercy’s ‘Vida’ and Margarethe von Trotta’s ‘Die bleierne Zeit’",
+      title: "Women on the Edge: History, Temporality, Sisterhood and Political Militancy",
       thumbnail: require("~/assets/bleierne-zeit.jpg"),
       publication: "Another Gaze",
       abstract:
-        "History, Temporality, Sisterhood and Political Militancy in Marge Piercy’s ‘Vida’ and Margarethe von Trotta’s ‘Die bleierne Zeit’",
+        "History, Temporality, Sisterhood and Political Militancy in Marge Piercy’s Vida and Margarethe von Trotta’s Die bleierne Zeit",
       year: "2019",
       month: "12",
       url:

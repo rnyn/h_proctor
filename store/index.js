@@ -34,6 +34,24 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 30,
+      slug: "bleierne-zeit",
+      title: "Women on the Edge: History, Temporality, Sisterhood and Political Militancy in Marge Piercy’s ‘Vida’ and Margarethe von Trotta’s ‘Die bleierne Zeit’",
+      thumbnail: require("~/assets/bleierne-zeit.jpg"),
+      publication: "Another Gaze",
+      abstract:
+        "History, Temporality, Sisterhood and Political Militancy in Marge Piercy’s ‘Vida’ and Margarethe von Trotta’s ‘Die bleierne Zeit’",
+      year: "2019",
+      month: "12",
+      url:
+        "https://www.anothergaze.com/women-edge-history-temporality-sisterhood-political-militancy-marge-piercys-vida-margarethe-von-trottas-die-bleierne-zeit/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Women on the Edge: History, Temporality, Sisterhood and Political Militancy",
+        content: "",
+        keywords: "Marge Piercy, Margarethe von Trotta, politics, sexuality"
+      }
+    },{
       id: 29,
       slug: "marx-freud",
       title: "From Marx to Freud",

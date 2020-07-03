@@ -74,8 +74,8 @@
 working on British and American Cold War era social science projects that
 investigated the Soviet mind. I was previously a fellow at the ICI Berlin
 and completed my PhD at Birkbeck, University of London. Before that I
-worked in theatre. My monograph <i>Psychologies in Revolution: Alexander
-Luria, Soviet Subjectivites and Cultural History</i> was published as part
+worked in theatre. My monograph <a href="https://www.palgrave.com/gp/book/9783030350277#:~:text=Psychologies%20in%20Revolution%20%2D%20Alexander%20Luria's,History%20%7C%20Hannah%20Proctor%20%7C%20Palgrave%20Macmillan" target="_blank"><i>Psychologies in Revolution: Alexander
+Luria, Soviet Subjectivites and Cultural History</i></a> was published as part
 of the Palgrave Macmillan series 'Mental Health in Historical Perspective'. <i>Psychologies
 in Revolution</i> situates the cross-disciplinary clinical research of
 Soviet psychologist and neurologist Alexander Luria (1902-1977) in its

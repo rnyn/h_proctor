@@ -34,6 +34,25 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 36,
+      slug: "dizzy-defeat",
+      title: "Dizzy with Defeat",
+      thumbnail: require("~/assets/dizzy-defeat.jpg"),
+      publication: "tribune",
+      abstract:
+        "",
+      year: "2020",
+      month: "06",
+      url:
+        "https://tribunemag.co.uk/2020/06/dizzy-with-defeat",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Dizzy with Defeat",
+        content: "",
+        keywords: "Victor Serge, communism, book review, USSR"
+      }
+    },
+    {
       id: 35,
       slug: "gornick-romance",
       title: "Read Vivian Gornick’s Romance of American Communism",

@@ -38,7 +38,7 @@ const makeStore = () => {
       slug: "dizzy-defeat",
       title: "Dizzy with Defeat",
       thumbnail: require("~/assets/dizzy-defeat.jpg"),
-      publication: "tribune",
+      publication: "Tribune",
       abstract:
         "",
       year: "2020",

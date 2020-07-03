@@ -93,7 +93,7 @@ const makeStore = () => {
     {
       id: 32,
       slug: "dialectical-fairyland",
-      title: "A Dialectical Fairyland",
+      title: "A Dialectical Fairyland: An interview with Hannah Proctor and Sam Dolbear",
       thumbnail: require("~/assets/dialectical-fairyland.png"),
       publication: "Tribune",
       abstract:

@@ -38,7 +38,7 @@ const makeStore = () => {
       slug: "gornick-romance",
       title: "Read Vivian Gornick’s Romance of American Communism",
       thumbnail: require("~/assets/gornick-romance.jpg"),
-      publication: "Tribune",
+      publication: "Jacobin",
       abstract:
         "",
       year: "2020",

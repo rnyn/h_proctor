@@ -70,21 +70,23 @@
           </p>
 
           <p>
-            I'm currently a fellow affiliated with the ICI Berlin. I'm working on
-            turning my PhD, completed at Birkbeck in 2016, into a monograph for the
-            Palgrave Macmillan series 'Mental Health in Historical Perspective'.
-            <i>Psychologies in Revolution: Alexander Luria, Soviet Subjectivites and Cultural
-            History</i> situates the innovative cross-disciplinary clinical research of Soviet psychologist
-            and neurologist Alexander Luria (1902-1977) in its politicised historical
-            context. Eschewing a biographical approach focused on Luria as an
-            individual, the book instead seeks to foreground the often marginalised
-            Soviet people – industrial workers, imprisoned murderers, rural school
-            children, deaf babies, homeless teenagers, Uzbek women and brain-injured
-            former soldiers – with whom his clinical work brought him into contact. I'm
-            also working on a book project for Verso on the psychic aftermath of political
-            struggle. I've amassed a pile of material on femininity and hardness – with
-            the working title 'Stone Femme' – to which I hope to return at some point
-            as well.
+            I'm a Wellcome Trust Research Fellow at the University of Strathclyde
+working on British and American Cold War era social science projects that
+investigated the Soviet mind. I was previously a fellow at the ICI Berlin
+and completed my PhD at Birkbeck, University of London. Before that I
+worked in theatre. My monograph <i>Psychologies in Revolution: Alexander
+Luria, Soviet Subjectivites and Cultural History</i> was published as part
+of the Palgrave Macmillan series 'Mental Health in Historical Perspective'. <i>Psychologies
+in Revolution</i> situates the cross-disciplinary clinical research of
+Soviet psychologist and neurologist Alexander Luria (1902-1977) in its
+politicised historical context. Eschewing a biographical approach focused
+on Luria as an individual, the book instead seeks to foreground the often
+marginalised Soviet people – industrial workers, imprisoned murderers,
+rural school children, deaf babies, homeless teenagers, Uzbek women and
+brain-injured former soldiers – with whom his clinical work brought him
+into contact. I'm also working on a book project for Verso on political
+defeat and the psychic aftermath of political struggle.
+
           </p>
           <p>
             I've written for both academic and non-academic publications on topics

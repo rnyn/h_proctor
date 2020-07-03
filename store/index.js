@@ -51,7 +51,8 @@ const makeStore = () => {
         content: "",
         keywords: "Marge Piercy, Margarethe von Trotta, politics, sexuality"
       }
-    },{
+    },
+    {
       id: 29,
       slug: "marx-freud",
       title: "From Marx to Freud",

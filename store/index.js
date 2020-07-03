@@ -111,25 +111,6 @@ const makeStore = () => {
     },
     {
       id: 31,
-      slug: "everything-is-true",
-      title: "Everything is True, Nothing is Permitted",
-      thumbnail: require("~/assets/everything-is-true.jpg"),
-      publication: "Tribune",
-      abstract:
-        "The results of the notorious ‘Stalinist Stanford Prison Experiment’, DAU, were finally shown to the public this spring. What does this blurring of fantasy and reality achieve?",
-      year: "2019",
-      month: "07",
-      url:
-        "https://tribunemag.co.uk/2019/07/everything-is-true-nothing-is-permitted",
-      meta: {
-        author: "Hannah Proctor",
-        title: "Everything is True, Nothing is Permitted",
-        content: "",
-        keywords: "Tribune, DAU"
-      }
-    },
-    {
-      id: 30,
       slug: "thinking-differently-ussr",
       title: "Thinking Differently in the USSR",
       thumbnail: require("~/assets/thinking-differently-ussr.jpg"),
@@ -145,6 +126,25 @@ const makeStore = () => {
         title: "Thinking Differently in the USSR",
         content: "",
         keywords: ""
+      }
+    },
+    {
+      id: 30,
+      slug: "everything-is-true",
+      title: "Everything is True, Nothing is Permitted",
+      thumbnail: require("~/assets/everything-is-true.jpg"),
+      publication: "Tribune",
+      abstract:
+        "The results of the notorious ‘Stalinist Stanford Prison Experiment’, DAU, were finally shown to the public this spring. What does this blurring of fantasy and reality achieve?",
+      year: "2019",
+      month: "07",
+      url:
+        "https://tribunemag.co.uk/2019/07/everything-is-true-nothing-is-permitted",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Everything is True, Nothing is Permitted",
+        content: "",
+        keywords: "Tribune, DAU"
       }
     },
     {

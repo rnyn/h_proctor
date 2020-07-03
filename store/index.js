@@ -34,7 +34,26 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
-      id: 32,
+      id: 35,
+      slug: "gornick-romance",
+      title: "Read Vivian Gornick’s Romance of American Communism",
+      thumbnail: require("~/assets/gornick-romance.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2020",
+      month: "04",
+      url:
+        "https://www.jacobinmag.com/2020/04/vivian-gornick-romance-of-american-communism-review",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Read Vivian Gornick’s Romance of American Communism",
+        content: "",
+        keywords: "Vivian Gornick, communism, book review"
+      }
+    },
+    {
+      id: 34,
       slug: "tzk-freud-reich",
       title: "Why Love Your Neighbour? The Dissent on Private Property between Freud and Reich",
       thumbnail: require("~/assets/tzk-freud-reich.jpg"),
@@ -53,7 +72,7 @@ const makeStore = () => {
       }
     },
     {
-      id: 31,
+      id: 33,
       slug: "bleierne-zeit",
       title: "Women on the Edge: History, Temporality, Sisterhood and Political Militancy",
       thumbnail: require("~/assets/bleierne-zeit.jpg"),
@@ -72,7 +91,7 @@ const makeStore = () => {
       }
     },
     {
-      id: 31,
+      id: 32,
       slug: "dialectical-fairyland",
       title: "A Dialectical Fairyland",
       thumbnail: require("~/assets/dialectical-fairyland.png"),
@@ -91,7 +110,7 @@ const makeStore = () => {
       }
     },
     {
-      id: 30,
+      id: 31,
       slug: "everything-is-true",
       title: "Everything is True, Nothing is Permitted",
       thumbnail: require("~/assets/everything-is-true.jpg"),

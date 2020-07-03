@@ -34,6 +34,25 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 32,
+      slug: "tzk-freud-reich",
+      title: "Why Love Your Neighbour? The Dissent on Private Property between Freud and Reich",
+      thumbnail: require("~/assets/tzk-freud-reich.jpg"),
+      publication: "Texte zur Kunst",
+      abstract:
+        "",
+      year: "2020",
+      month: "04",
+      url:
+        "https://www.textezurkunst.de/117/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Why Love Your Neighbour? The Dissent on Private Property between Freud and Reich",
+        content: "",
+        keywords: "Sigmund Freud, Wilhelm Reich, private property"
+      }
+    },
+    {
       id: 31,
       slug: "bleierne-zeit",
       title: "Women on the Edge: History, Temporality, Sisterhood and Political Militancy",
@@ -68,7 +87,7 @@ const makeStore = () => {
         author: "Hannah Proctor, Sam Dolbear",
         title: "A Dialectical Fairyland",
         content: "",
-        keywords: ""
+        keywords: "Dialectics, Walter Benjamin"
       }
     },
     {
@@ -85,9 +104,9 @@ const makeStore = () => {
         "https://tribunemag.co.uk/2019/07/everything-is-true-nothing-is-permitted",
       meta: {
         author: "Hannah Proctor",
-        title: "A Dialectical Fairyland",
+        title: "Everything is True, Nothing is Permitted",
         content: "",
-        keywords: ""
+        keywords: "Tribune, DAU"
       }
     },
     {

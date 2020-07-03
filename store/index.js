@@ -34,7 +34,7 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
-      id: 30,
+      id: 31,
       slug: "bleierne-zeit",
       title: "Women on the Edge: History, Temporality, Sisterhood and Political Militancy",
       thumbnail: require("~/assets/bleierne-zeit.jpg"),
@@ -50,6 +50,63 @@ const makeStore = () => {
         title: "Women on the Edge: History, Temporality, Sisterhood and Political Militancy",
         content: "",
         keywords: "Marge Piercy, Margarethe von Trotta, politics, sexuality"
+      }
+    },
+    {
+      id: 31,
+      slug: "dialectical-fairyland",
+      title: "A Dialectical Fairyland",
+      thumbnail: require("~/assets/dialectical-fairyland.png"),
+      publication: "Tribune",
+      abstract:
+        "Hannah Proctor and Sam Dolbear talk to Tribune about Arcades Materials, a series of pamphlets sparking off from Walter Benjamin's Arcades Project.",
+      year: "2019",
+      month: "10",
+      url:
+        "https://tribunemag.co.uk/2019/10/a-dialectical-fairyland",
+      meta: {
+        author: "Hannah Proctor, Sam Dolbear",
+        title: "A Dialectical Fairyland",
+        content: "",
+        keywords: ""
+      }
+    },
+    {
+      id: 30,
+      slug: "everything-is-true",
+      title: "Everything is True, Nothing is Permitted",
+      thumbnail: require("~/assets/everything-is-true.jpg"),
+      publication: "Tribune",
+      abstract:
+        "The results of the notorious ‘Stalinist Stanford Prison Experiment’, DAU, were finally shown to the public this spring. What does this blurring of fantasy and reality achieve?",
+      year: "2019",
+      month: "07",
+      url:
+        "https://tribunemag.co.uk/2019/07/everything-is-true-nothing-is-permitted",
+      meta: {
+        author: "Hannah Proctor",
+        title: "A Dialectical Fairyland",
+        content: "",
+        keywords: ""
+      }
+    },
+    {
+      id: 30,
+      slug: "thinking-differently-ussr",
+      title: "Thinking Differently in the USSR",
+      thumbnail: require("~/assets/thinking-differently-ussr.jpg"),
+      publication: "History of the Human Sciences",
+      abstract:
+        "Review: Rebecca Reich. State of Madness: Psychiatry, Literature and Dissent After Stalin",
+      year: "2019",
+      month: "10",
+      url:
+        "http://www.histhum.com/thinking-differently-in-the-ussr/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Thinking Differently in the USSR",
+        content: "",
+        keywords: ""
       }
     },
     {

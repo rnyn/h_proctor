@@ -29,6 +29,18 @@ height: 100%;
       <div class="card">
         <div class="image is-4by3">
           <figure>
+      <img src="~/assets/mayday-event.jpeg">
+        </figure>
+      </div>
+        <!-- <div class="card-header">
+        <div class="card-header-title"></div>
+  </div> -->
+        <div class="content"><blockquote><h5>How to Dream Faster</h5>Mayday Rooms<br>London<br>December 2019</blockquote></div>
+        <div class="media-content"><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178572763&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
+      </div>
+      <div class="card">
+        <div class="image is-4by3">
+          <figure>
       <img src="~/assets/hannah-larne-chisenhale.jpg">
         </figure>
       </div>

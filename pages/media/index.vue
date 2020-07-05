@@ -26,15 +26,23 @@ height: 100%;
 <div class="columns">
     <div class="column is-half">
       <span class="tag is-black">Audio</span>
-      <!-- <div class="card">
+      <div class="card">
         <div class="image is-4by3">
-          <figure>
+        <a href="https://audio.maydayrooms.org/how-to-dream-faster" target="_blank">
+            <figure>
       <img src="~/assets/mayday-event.jpeg">
+      <!-- <audio
+       controls
+       src="~/assets/dream-faster.mp3">
+           Your browser does not support the
+           <code>audio</code> element.
+   </audio> -->
         </figure>
+      </a>
       </div>
-        <div class="content"><blockquote><h5>How to Dream Faster</h5>Mayday Rooms<br>London<br>December 2019</blockquote></div>
+        <div class="content"><blockquote><h5>How to Dream Faster</h5>Mayday Rooms<br>London<br>March 2020</blockquote></div>
         <div class="media-content"><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178572763&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
-      </div> -->
+      </div>
       <div class="card">
         <div class="image is-4by3">
           <figure>
@@ -64,6 +72,27 @@ height: 100%;
 
     <div class="column is-half">
       <span class="tag is-black">Video</span>
+      <div class="card">
+            <div class="card-image">
+              <figure class="is-4by3">
+              <img src="~/assets/libidinal-economies-crisis.png">
+            </figure>
+          </div>
+
+                <div class="content"><blockquote><h5>Libidinal Economies of Crisis Times</h5>Acud Macht Neu<br>Berlin<br>September 2019</blockquote>
+                </div>
+
+
+            <div class="media-content">
+              <div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/huFZZk_xGtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+
+
+          </div>
+
+    <hr>
       <div class="card">
             <div class="card-image">
               <figure class="is-4by3">

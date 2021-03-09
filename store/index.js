@@ -34,6 +34,42 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 38,
+      slug: "care-manifesto",
+      title: "The Care Manifesto",
+      thumbnail: require("~/assets/care-manifesto.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2020",
+      month: "12",
+      url:
+        "https://tribunemag.co.uk/2020/12/the-care-manifesto",
+      meta: {
+        author: "Hannah Proctor",
+        title: "The Care Manifesto",
+        content: "",
+        keywords: "Covid-19, care, book review, capitalism"
+      }
+    },{
+      id: 37,
+      slug: "marx-coca-cola",
+      title: "Between Marx and Coca-Cola",
+      thumbnail: require("~/assets/marx-coca-cola.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2020",
+      month: "11",
+      url:
+        "https://tribunemag.co.uk/2020/11/between-marx-and-coca-cola",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Between Marx and Coca-Cola",
+        content: "",
+        keywords: "Situationist International, Situationists, book review, Guy Debord"
+      }
+    },{
       id: 36,
       slug: "dizzy-defeat",
       title: "Dizzy with Defeat",

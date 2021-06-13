@@ -72,7 +72,7 @@ const makeStore = () => {
     },{
       id: 39,
       slug: "ruins-mind",
-      title: "The Ruins of the Mind",
+      title: "Ruins of the Mind",
       thumbnail: require("~/assets/ruins-mind.png"),
       publication: "Tribune",
       abstract:

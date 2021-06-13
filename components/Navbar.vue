@@ -37,7 +37,7 @@
             <div class="navbar-end">
                 <nuxt-link class="navbar-item" to="/texts">Texts</nuxt-link>
                 <nuxt-link class="navbar-item" to="/media">Media</nuxt-link>
-                <nuxt-link class="navbar-item" to="/events">Events</nuxt-link>
+               <!-- <nuxt-link class="navbar-item" to="/events">Events</nuxt-link> -->
                 <nuxt-link class="navbar-item" to="/bio">Bio</nuxt-link>
             </div>
         </div>

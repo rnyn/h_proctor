@@ -68,6 +68,7 @@
               histories of the Left.
 
           </p>
+          <p> I write a newsletter called 'Unconsciousness raising' that explores overlaps, contradictions and antagonisms between left-wing political movements and psychoanalysis (and other psy sciences). You can sign up <a href="https://hhnnccnnll.substack.com/" target="blank">here</a>. </p>
 
           <p>
             I'm a Wellcome Trust Research Fellow at the University of Strathclyde

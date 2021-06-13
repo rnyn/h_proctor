@@ -34,6 +34,60 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 41,
+      slug: "unbreak-our-hearts",
+      title: "Unbreak our Hearts",
+      thumbnail: require("~/assets/unbreak-hearts.png"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2021",
+      month: "06",
+      url:
+        "https://tribunemag.co.uk/2021/06/unbreak-our-hearts",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Unbreak our Hearts",
+        content: "",
+        keywords: "Depression, Jonathan, Sadowsky, politics, mental illness"
+      }
+    },{
+      id: 40,
+      slug: "notes-anti-fascism-psychology",
+      title: "Notes on Anti-Fascism and Psychology",
+      thumbnail: require("~/assets/notes-anti-fascism-psychology.png"),
+      publication: "Verso Blog",
+      abstract:
+        "",
+      year: "2021",
+      month: "04",
+      url:
+        "https://www.versobooks.com/blogs/5045-notes-on-anti-fascism-and-psychology",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Notes on Anti-Fascism and Psychology",
+        content: "",
+        keywords: "Psychology, fascism, childhood, Adorno, Authoritarian, Personality"
+      }
+    },{
+      id: 39,
+      slug: "ruins-mind",
+      title: "The Ruins of the Mind",
+      thumbnail: require("~/assets/ruins-mind.png"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2021",
+      month: "03",
+      url:
+        "https://tribunemag.co.uk/2021/03/ruins-of-the-mind",
+      meta: {
+        author: "Hannah Proctor",
+        title: "The Ruins of the Mind",
+        content: "",
+        keywords: "Abi-Rached, psychiatry, Lebanon"
+      }
+    },{
       id: 38,
       slug: "care-manifesto",
       title: "The Care Manifesto",

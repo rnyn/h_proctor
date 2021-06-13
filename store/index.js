@@ -47,7 +47,7 @@ const makeStore = () => {
         "https://tribunemag.co.uk/2021/06/unbreak-our-hearts",
       meta: {
         author: "Hannah Proctor",
-        title: "Unbreak our Hearts",
+        title: "Unbreak Our Hearts",
         content: "",
         keywords: "Depression, Jonathan, Sadowsky, politics, mental illness"
       }

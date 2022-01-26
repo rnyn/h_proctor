@@ -34,6 +34,60 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 44,
+      slug: "coming-of-age",
+      title: "Free: Coming of Age at the End of History",
+      thumbnail: require("~/assets/coming-of-age.jpg"),
+      publication: "Red Pepper",
+      abstract:
+        "",
+      year: "2022",
+      month: "01",
+      url:
+        "https://www.redpepper.org.uk/review-free-coming-of-age-at-the-end-of-history/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Free: Coming of Age at the End of History",
+        content: "",
+        keywords: "history, book review, poltics, history, freedom"
+      }
+    },{
+      id: 43,
+      slug: "smells-like-world-spirit",
+      title: "Smells Like World Spirit",
+      thumbnail: require("~/assets/smells-like-world-spirit.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2021",
+      month: "12",
+      url:
+        "https://tribunemag.co.uk/2021/12/smells-like-world-spirit",
+      meta: {
+        author: "Hannah Proctor",
+        title: " Smells Like World Spirit",
+        content: "",
+        keywords: "history, book review, perfume"
+      }
+    },{
+      id: 42,
+      slug: "economies-without-libidos",
+      title: "Economies Without Libidos",
+      thumbnail: require("~/assets/economies-without-libidos.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2021",
+      month: "10",
+      url:
+        "https://tribunemag.co.uk/2021/10/economies-without-libidos",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Economies Without Libidos",
+        content: "",
+        keywords: "Keti Chukhrov, book review, Soviet Union, socialism, desire"
+      }
+    },{
       id: 41,
       slug: "unbreak-our-hearts",
       title: "Unbreak our Hearts",

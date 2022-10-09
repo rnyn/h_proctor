@@ -34,6 +34,78 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 48,
+      slug: "revolutionary-patience",
+      title: "Revolutionary Patience",
+      thumbnail: require("~/assets/revolutionary-patience.jpg"),
+      publication: "Another Screen",
+      abstract:
+        "",
+      year: "2022",
+      month: "09",
+      url:
+        "https://www.another-screen.com/and-who-do-you-hit-helga-reidemeister",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Revolutionary Patience Housing, violence and the family in two films by Helga Reidemeister",
+        content: "",
+        keywords: "history, criticism, politics, film, Berlin, Helga Reidemeister"
+      }
+    },{
+      id: 47,
+      slug: "your-move",
+      title: "Your Move, Creep!",
+      thumbnail: require("~/assets/your-move.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2022",
+      month: "8",
+      url:
+        "https://tribunemag.co.uk/2022/08/your-move-creep",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Your Move, Creep!",
+        content: "",
+        keywords: "history, film, gender, criticism, Paul Verhoeven"
+      }
+    },{
+      id: 46,
+      slug: "dancing-ruins",
+      title: "Dancing in the Ruins",
+      thumbnail: require("~/assets/dancing-ruins.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2022",
+      month: "05",
+      url:
+        "https://tribunemag.co.uk/2022/05/dancing-in-the-ruins",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Dancing in the Ruins",
+        content: "",
+        keywords: "history, book review, politics, Berlin, Ulrich, Gutmair"
+      }
+    },{
+      id: 45,
+      slug: "lost-at-sea",
+      title: "Lost at Sea",
+      thumbnail: require("~/assets/lost-at-sea.jpg"),
+      publication: "Radical Philosophy",
+      abstract:
+        "",
+      year: "2022",
+      month: "04",
+      url:
+        "https://www.radicalphilosophy.com/reviews/individual-reviews/lost-at-sea",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Lost at sea: Review of Enzo Traverso, Revolution: An Intellectual History ",
+        content: "",
+        keywords: "history, book review, politics, revolution"
+      }
+    },{
       id: 44,
       slug: "coming-of-age",
       title: "Free: Coming of Age at the End of History",
@@ -49,7 +121,7 @@ const makeStore = () => {
         author: "Hannah Proctor",
         title: "Free: Coming of Age at the End of History",
         content: "",
-        keywords: "history, book review, poltics, history, freedom"
+        keywords: "history, book review, politics, freedom"
       }
     },{
       id: 43,

@@ -63,39 +63,23 @@
             <h4>Revolutionary psychologies, communist neurologies, red therapies </h4>
             <div class="content">
             <p>
-              I'm broadly interested in intersections between left-wing politics and
-              psychology, histories and theories of radical psychiatry, and emotional
-              histories of the Left.
+              I'm broadly interested in intersections between left-wing politics and the psy’ disciplines, Communist and anti-Communist theories of the mind, histories and theories of radical psychiatry, and emotional histories of the left.
 
           </p>
-          <p> I write a newsletter called 'Unconsciousness raising' that explores overlaps, contradictions and antagonisms between left-wing political movements and psychoanalysis (and other psy sciences). You can sign up <a href="https://hhnnccnnll.substack.com/" target="blank">here</a>. </p>
+          <p> I write an irregular newsletter called 'Unconsciousness raising' that explores overlaps, contradictions and antagonisms between left-wing political movements and psychoanalysis (and other psy sciences). You can sign up <a href="https://hhnnccnnll.substack.com/" target="blank">here</a>. </p>
 
           <p>
-            I'm a Wellcome Trust Research Fellow at the University of Strathclyde
-working on British and American Cold War era social science projects that
-investigated the Soviet mind. I was previously a fellow at the ICI Berlin
-and completed my PhD at Birkbeck, University of London. Before that I
-worked in theatre. My monograph <a href="https://www.palgrave.com/gp/book/9783030350277#:~:text=Psychologies%20in%20Revolution%20%2D%20Alexander%20Luria's,History%20%7C%20Hannah%20Proctor%20%7C%20Palgrave%20Macmillan" target="_blank"><i>Psychologies in Revolution: Alexander
-Luria, Soviet Subjectivites and Cultural History</i></a> was published as part
-of the Palgrave Macmillan series 'Mental Health in Historical Perspective'. <i>Psychologies
-in Revolution</i> situates the cross-disciplinary clinical research of
-Soviet psychologist and neurologist Alexander Luria (1902-1977) in its
-politicised historical context. Eschewing a biographical approach focused
-on Luria as an individual, the book instead seeks to foreground the often
-marginalised Soviet people – industrial workers, imprisoned murderers,
-rural school children, deaf babies, homeless teenagers, Uzbek women and
-brain-injured former soldiers – with whom his clinical work brought him
-into contact. I'm also working on a book project for Verso on political
-defeat and the psychic aftermath of political struggle.
+            My monograph <a href="https://www.palgrave.com/gp/book/9783030350277#:~:text=Psychologies%20in%20Revolution%20%2D%20Alexander%20Luria's,History%20%7C%20Hannah%20Proctor%20%7C%20Palgrave%20Macmillan" target="_blank"><i>Psychologies in Revolution: Alexander
+Luria, Soviet Subjectivites and Cultural History</i></a> was published as part of the Palgrave Macmillan series 'Mental Health in Historical Perspective' in 2020. I'm currently finishing on a book project for Verso on political defeat, disillusionment and the psychic toll of political struggle.
 
           </p>
           <p>
-            I've written for both academic and non-academic publications on topics
-            including rayon stockings, gender and the death drive, utopian pedagogy,
-            Communist motherhood, wrinkles, the aesthetics of fMRI, Soviet babies,
-            revolutionary commemoration, British antipsychiatry, mourning, Carl Jung's
-            influence on Jordan Peterson, and Ulrike Meinhof’s brain. I'd like to write
-            more about film. I'm on the editorial collective of <i>Radical Philosophy</i>.
+          I'm a researcher at the Centre for the Social History of Health and Healthcare at the University of Strathclyde. I’ve been working on a project on Cold War era social science projects based in the US that investigated the Soviet mind and am now researching international campaigns against the political abuse of psychiatry in the USSR. I was previously a postdoctoral fellow at the ICI Berlin and completed my PhD at Birkbeck, University of London. Before that I worked in theatre admin and production for five years. 
+          </p>
+          <p>
+           
+
+I've written for both academic and non-academic publications on topics including rayon stockings, gender and the death drive, utopian pedagogy, Communist motherhood, wrinkles, the aesthetics of fMRI, Soviet babies, revolutionary commemoration, British antipsychiatry, mourning, Carl Jung's influence on Jordan Peterson, depression, perfume and Ulrike Meinhof’s brain. I'm on the editorial collective of <i>Radical Philosophy</i>. I’m also a contributing editor at <i>Parapraxis Mag</i> and web/reviews editor of <i>History of the Human Sciences</i>.
 
 
 

@@ -50,7 +50,7 @@ const makeStore = () => {
         title: "A new speculative fiction about a revolutionary near future takes the form of an oral history project with inhabitants of the New York Commune, and imagines how abolitionist theories might play out in practice.",
         content: "",
         keywords: "history, criticism, politics, fiction, abolitionism, utopia, New York Commune"
-      }S
+      }
     },{
       id: 49,
       slug: "flowers-through-concrete",

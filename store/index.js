@@ -34,6 +34,42 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 50,
+      slug: "coming-up-for-air",
+      title: "Coming Up for Air",
+      thumbnail: require("~/assets/coming-up-for-air.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2022",
+      month: "12",
+      url:
+        "https://tribunemag.co.uk/2022/12/coming-up-for-air",
+      meta: {
+        author: "Hannah Proctor",
+        title: "A new speculative fiction about a revolutionary near future takes the form of an oral history project with inhabitants of the New York Commune, and imagines how abolitionist theories might play out in practice.",
+        content: "",
+        keywords: "history, criticism, politics, fiction, abolitionism, utopia, New York Commune"
+      }S
+    },{
+      id: 49,
+      slug: "flowers-through-concrete",
+      title: "Flowers Through Concrete",
+      thumbnail: require("~/assets/flowers-through-concrete.jpg"),
+      publication: "Journal of Contemporary History",
+      abstract:
+        "",
+      year: "2022",
+      month: "12",
+      url:
+        "https://journals.sagepub.com/doi/full/10.1177/00220094221130400g",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Book Review: Flowers Through Concrete: Explorations in Soviet Hippieland by Juliane Fürst",
+        content: "",
+        keywords: "history, criticism, politics, book review, counterculture, Soviet Union, communism, hippies"
+      }
+      },{
       id: 48,
       slug: "revolutionary-patience",
       title: "Revolutionary Patience",

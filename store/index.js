@@ -34,6 +34,24 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 51,
+      slug: "sympathetic-devils",
+      title: "Sympathetic Devils",
+      thumbnail: require("~/assets/sympathetic-devils.jpg"),
+      publication: "Parapraxis",
+      abstract:
+        "",
+      year: "2023",
+      month: "01",
+      url:
+        "https://www.parapraxismagazine.com/articles/sympathetic-devils",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Sympathetic Devils: The psychic life of Britain between Godard and the Queen",
+        content: "",
+        keywords: "history, criticism, politics, psychoanalysis, film, Godard, UK, England"
+      }
+    },{
       id: 50,
       slug: "coming-up-for-air",
       title: "Coming Up for Air",

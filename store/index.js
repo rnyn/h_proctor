@@ -36,8 +36,7 @@ const makeStore = () => {
     {
       id: 52,
       slug: "road-to-nowhere",
-      title: "
-      Road to nowhere: Sergei Loznitsa and Russia’s wartime ghosts",
+      title: "Road to nowhere: Sergei Loznitsa and Russia’s wartime ghosts",
       thumbnail: require("~/assets/road-to-nowhere.jpg"),
       publication: "Klassiki",
       abstract:

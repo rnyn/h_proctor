@@ -34,6 +34,25 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 52,
+      slug: "road-to-nowhere",
+      title: "
+      Road to nowhere: Sergei Loznitsa and Russia’s wartime ghosts",
+      thumbnail: require("~/assets/road-to-nowhere.jpg"),
+      publication: "Klassiki",
+      abstract:
+        "",
+      year: "2023",
+      month: "02",
+      url:
+        "https://klassiki.online/road-to-nowhere-sergei-loznitsa-and-russias-wartime-ghosts/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "",
+        content: "",
+        keywords: "history, criticism, politics, war, film, Sergei, Loznitsa, Russia, England"
+      }
+    },{
       id: 51,
       slug: "sympathetic-devils",
       title: "Sympathetic Devils",

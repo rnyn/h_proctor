@@ -34,6 +34,25 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 51,
+      slug: "nothing-but-defeats",
+      title: " ‘Nothing but defeats’: Fassbinder beyond fragments",
+      thumbnail: require("~/assets/nothing-but-defeats.jpg"),
+      publication: "Another Gaze",
+      abstract:
+        "",
+      year: "2023",
+      month: "06",
+      url:
+        "https://www.anothergaze.com/nothing-defeats-fassbinder-beyond-fragments/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Nothing but defeats: Fassbinder beyond fragments",
+        content: "",
+        keywords: "Fassbinder, criticism, essay, autobiography, film"
+      }
+    },
+    {
       id: 52,
       slug: "road-to-nowhere",
       title: "Road to nowhere: Sergei Loznitsa and Russia’s wartime ghosts",

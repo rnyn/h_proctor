@@ -34,7 +34,45 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
-      id: 51,
+      id: 54,
+      slug: "space-crone-review",
+      title: "Ursula Le Guin's Space Crone",
+      thumbnail: require("~/assets/space-crone-review.jpg"),
+      publication: "Jacobin",
+      abstract:
+        "",
+      year: "2023",
+      month: "09",
+      url:
+        "https://jacobin.com/2023/09/ursula-le-guin-space-crones-review-science-fiction-feminism",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Ursula Le Guin's Space Crone",
+        content: "",
+        keywords: "Ursula Le Guin, SciFi, science ficiton, review, novel, literature, book"
+      }
+    },
+    {
+      id: 53,
+      slug: "science-social-history",
+      title: "The Science of Social History",
+      thumbnail: require("~/assets/science-social-history.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2023",
+      month: "05",
+      url:
+        "https://tribunemag.co.uk/2023/05/the-science-of-social-history",
+      meta: {
+        author: "Hannah Proctor",
+        title: "The Science of Social History",
+        content: "",
+        keywords: "Alexander Luria, psychology, communism, revolution, Soviet Union"
+      }
+    },
+    {
+      id: 52,
       slug: "nothing-but-defeats",
       title: " ‘Nothing but defeats’: Fassbinder beyond fragments",
       thumbnail: require("~/assets/nothing-but-defeats.jpg"),
@@ -50,6 +88,25 @@ const makeStore = () => {
         title: "Nothing but defeats: Fassbinder beyond fragments",
         content: "",
         keywords: "Fassbinder, criticism, essay, autobiography, film"
+      }
+    },
+    {
+      id: 51,
+      slug: "never-been-postmodern",
+      title: "We Have Never Been Postmodern",
+      thumbnail: require("~/assets/never-been-postmodern.jpg"),
+      publication: "Tribune",
+      abstract:
+        "",
+      year: "2023",
+      month: "03",
+      url:
+        "https://tribunemag.co.uk/2023/03/we-have-never-been-postmodern",
+      meta: {
+        author: "Hannah Proctor",
+        title: "We Have Never Been Postmodern",
+        content: "",
+        keywords: "Stuart Jeffries, criticism, review, culture, postmodernity"
       }
     },
     {

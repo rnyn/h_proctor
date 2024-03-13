@@ -20,7 +20,7 @@
   min-width: 280px;
 }
 
-.container h4{
+.container h3{
   /* font-style:italic; */
   max-width: 420px;
   margin:0 auto;

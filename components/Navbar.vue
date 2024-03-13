@@ -15,8 +15,7 @@
   #burnout {
     color: #fe5300;
     font-weight: bold;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
-}
+    text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.5);}
 
 
   </style>

@@ -20,7 +20,7 @@
   min-width: 280px;
 }
 
-.container h3{
+.container h4{
   /* font-style:italic; */
   max-width: 420px;
   margin:0 auto;
@@ -59,10 +59,9 @@
           <figure class="image">
             <img src="~/assets/burnout-cover.png" alt="Burnout: The Emotional Cover of Political Defeat - Book Cover" id="cover">
           </figure>
+          <h4>Burnout: The Emotional Cover of Political Defeat </h4>
 
             <div class="content">
-            <h3>Burnout: The Emotional Cover of Political Defeat </h3>
-
             <p>
              <b>How to maintain hope in the face of despair</b>
              </p>

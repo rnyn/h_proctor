@@ -12,6 +12,12 @@
     /* font-weight:600; */
   }
 
+  #burnout {
+    color: #fe5300;
+    font-weight: bold;
+}
+
+
   </style>
 
 <template>
@@ -39,6 +45,8 @@
                 <nuxt-link class="navbar-item" to="/media">Media</nuxt-link>
                <!-- <nuxt-link class="navbar-item" to="/events">Events</nuxt-link> -->
                 <nuxt-link class="navbar-item" to="/bio">Bio</nuxt-link>
+                <nuxt-link class="navbar-item" to="/burnout" id="burnout">Burnout</nuxt-link>
+
             </div>
         </div>
 </div>

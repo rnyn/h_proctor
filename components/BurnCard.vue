@@ -60,8 +60,9 @@
             <img src="~/assets/burnout-cover.png" alt="Burnout: The Emotional Cover of Political Defeat - Book Cover" id="cover">
           </figure>
 
-            <h3>Burnout: The Emotional Cover of Political Defeat </h3>
             <div class="content">
+            <h3>Burnout: The Emotional Cover of Political Defeat </h3>
+
             <p>
              <b>How to maintain hope in the face of despair</b>
              </p>

@@ -41,11 +41,12 @@
         </div>
         <div class="navbar-menu" id="navMenu" v-bind:class="{ 'is-active': activator }">
             <div class="navbar-end">
+                <nuxt-link class="navbar-item" to="/burnout" id="burnout">Burnout</nuxt-link>
                 <nuxt-link class="navbar-item" to="/texts">Texts</nuxt-link>
-                <nuxt-link class="navbar-item" to="/media">Media</nuxt-link>
+                <!-- <nuxt-link class="navbar-item" to="/media">Media</nuxt-link> -->
                <!-- <nuxt-link class="navbar-item" to="/events">Events</nuxt-link> -->
                 <nuxt-link class="navbar-item" to="/bio">Bio</nuxt-link>
-                <nuxt-link class="navbar-item" to="/burnout" id="burnout">Burnout</nuxt-link>
+                
 
             </div>
         </div>

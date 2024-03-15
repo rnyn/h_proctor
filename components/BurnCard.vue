@@ -82,19 +82,6 @@ blockquote p::after {
           </figure>
           <h4>Burnout: The Emotional Cover of Political Defeat </h4>
 
-          <nav class="level is-mobile">
-        <div class="level-item has-text-centered">
-
-        <div>
-          <p class="heading">Preorder</p>
-          <p class="title is-size-6" id="preorderlinks">
-          <a href="https://www.versobooks.com/en-gb/products/970-burnout">Verso Books</a>
-          </p>
-        </div>
-        </div>
-      </nav>
-        </div>
-
             <div class="content">
             <p>
              <b>How to maintain hope in the face of despair</b>
@@ -129,7 +116,7 @@ blockquote p::after {
 <!-- blurb ends here -->
      
     </div>
-      <!-- <nav class="level is-mobile">
+      <nav class="level is-mobile">
         <div class="level-item has-text-centered">
 
         <div>
@@ -140,7 +127,7 @@ blockquote p::after {
         </div>
         </div>
       </nav>
-        </div> -->
+        </div>
 
 
 

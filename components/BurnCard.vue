@@ -125,9 +125,11 @@ blockquote p::after {
   </blockquote>
   </div>
 
-
-
 <!-- blurb ends here -->
+
+<h4>Events</h4>
+
+<p>10 April 2024, <a href="https://www.peeruk.org/talks-events-workshops/2024/4/10/book-launch-for-burn-out-by-hannah-proctor">Burnout London launch</a> (with Larne Abse Gogarty), Peer Gallery</p>
      
     </div>
       <nav class="level is-mobile">

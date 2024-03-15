@@ -30,6 +30,16 @@
 
 }
 
+.content h4{
+  /* font-style:italic; */
+  max-width: 420px;
+  margin:0 auto;
+  padding:10px;
+  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+
+}
+
 
 #preorderlinks{
   font-family:  monospace;

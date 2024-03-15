@@ -75,7 +75,7 @@
 
 <!-- blurb goes here -->
 
-              <div class="book-blurbs">
+              <div class="content">
   <blockquote class="blurb">
     <p>"Hannah Proctor is one of the best writers on the left today, and this is an extraordinary and extremely timely book – a kaleidoscopic work of revolutionary history on what happens when our day doesn’t come and we have to cope with the consequences. Refusing both the easy temptations of left melancholia and forced ‘just another push, comrades!’ optimism, this is a book full of unromantic communist longing, deadpan humor, and hard-won wisdom."</p>
     <footer>

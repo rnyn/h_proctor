@@ -93,6 +93,7 @@ blockquote p::after {
 
             <p> <i>Burnout</i> considers despairing former Communards exiled to a penal colony in the South Pacific; exhausted Bolsheviks recuperating in sanatoria in the aftermath of the October Revolution; an ex-militant on the analyst’s couch relating dreams of ruined landscapes; Chinese peasants engaging in self-criticism sessions; a political organiser seeking advice from a spiritual healer; civil rights movement activists battling weariness; and a group of feminists padding a room with mattresses to scream about the patriarchy. Jettisoning self-help narratives and individualizing therapy talk, Proctor offers a different way forward - neither denial nor despair. Her cogent exploration of the ways militants have made sense of their own burnout demonstrates that it is possible to mourn and organise at once, and to do both without compromise.
 </p>
+<h4>Reviews</h4>
 
 <!-- blurb goes here -->
 

@@ -101,7 +101,7 @@ h2 {
   <div class="tile is-parent">
     <article class="tile is-child" id="image-tile">
 
-          <figure class="image is-600x600">
+          <figure class="image">
             <img :src="thumbnail">
           <h3>{{publication}} <br> {{year}}/{{month}}</h3>
 

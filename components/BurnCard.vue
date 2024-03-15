@@ -45,6 +45,25 @@
   padding:10px;
 }
 
+/* blockquote styling */
+
+blockquote {
+  margin: 0;
+}
+
+blockquote p {
+  padding: 15px;
+  background: #eee;
+  border-radius: 5px;
+}
+
+blockquote p::before {
+  content: '\201C';
+}
+
+blockquote p::after {
+  content: '\201D';
+}
 
 </style>
 <template>

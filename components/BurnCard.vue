@@ -82,6 +82,19 @@ blockquote p::after {
           </figure>
           <h4>Burnout: The Emotional Cover of Political Defeat </h4>
 
+          <nav class="level is-mobile">
+        <div class="level-item has-text-centered">
+
+        <div>
+          <p class="heading">Preorder</p>
+          <p class="title is-size-6" id="preorderlinks">
+          <a href="https://www.versobooks.com/en-gb/products/970-burnout">Verso Books</a>
+          </p>
+        </div>
+        </div>
+      </nav>
+        </div>
+
             <div class="content">
             <p>
              <b>How to maintain hope in the face of despair</b>
@@ -98,14 +111,14 @@ blockquote p::after {
 
               
   <blockquote>
-    <p>"Hannah Proctor is one of the best writers on the left today, and this is an extraordinary and extremely timely book – a kaleidoscopic work of revolutionary history on what happens when our day doesn’t come and we have to cope with the consequences. Refusing both the easy temptations of left melancholia and forced ‘just another push, comrades!’ optimism, this is a book full of unromantic communist longing, deadpan humor, and hard-won wisdom."</p>
+    <p>Hannah Proctor is one of the best writers on the left today, and this is an extraordinary and extremely timely book – a kaleidoscopic work of revolutionary history on what happens when our day doesn’t come and we have to cope with the consequences. Refusing both the easy temptations of left melancholia and forced ‘just another push, comrades!’ optimism, this is a book full of unromantic communist longing, deadpan humor, and hard-won wisdom.</p>
     <footer>
       <cite>Owen Hatherley, author of <i>The Ministry of Nostalgia</i></cite>
       </footer>
   </blockquote>
-  
+
   <blockquote>
-    <p>"Not since Freud first described war neurosis have we been treated to such an astonishing taxonomy of the human mind. In <i>Burnout</i>, Hannah Proctor takes that feeling we all have, and names it again and again, helping us to resee the past and present of revolutionary struggle. A must-read."</p>
+    <p>Not since Freud first described war neurosis have we been treated to such an astonishing taxonomy of the human mind. In <i>Burnout</i>, Hannah Proctor takes that feeling we all have, and names it again and again, helping us to resee the past and present of revolutionary struggle. A must-read.</p>
     <footer>
       <cite>Hannah Zeavin, Founding Editor, <i>Parapraxis</i></cite>
     </footer>
@@ -116,7 +129,7 @@ blockquote p::after {
 <!-- blurb ends here -->
      
     </div>
-      <nav class="level is-mobile">
+      <!-- <nav class="level is-mobile">
         <div class="level-item has-text-centered">
 
         <div>
@@ -127,7 +140,7 @@ blockquote p::after {
         </div>
         </div>
       </nav>
-        </div>
+        </div> -->
 
 
 

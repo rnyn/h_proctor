@@ -80,7 +80,7 @@ blockquote p::after {
           <figure class="image">
             <img src="~/assets/burnout-cover.png" alt="Burnout: The Emotional Cover of Political Defeat - Book Cover" id="cover">
           </figure>
-          <h4>Burnout: The Emotional Cover of Political Defeat </h4>
+          <h4>Burnout: The Emotional Experience of Political Defeat </h4>
 
             <div class="content">
             <p>

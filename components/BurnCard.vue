@@ -66,7 +66,11 @@ blockquote p::after {
   content: '\201D';
 }
 
-.
+.content blockquote{
+  max-width:400px;
+  margin:0 auto;
+  padding-top:10px;
+}
 
 </style>
 <template>

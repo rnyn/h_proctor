@@ -30,6 +30,7 @@
 
 }
 
+
 #preorderlinks{
   font-family:  monospace;
 
@@ -65,6 +66,8 @@ blockquote p::after {
   content: '\201D';
 }
 
+.
+
 </style>
 <template>
 
@@ -95,12 +98,10 @@ blockquote p::after {
 <!-- blurb goes here -->
 
               
-  <blockquote>
+  
     <p>"Hannah Proctor is one of the best writers on the left today, and this is an extraordinary and extremely timely book – a kaleidoscopic work of revolutionary history on what happens when our day doesn’t come and we have to cope with the consequences. Refusing both the easy temptations of left melancholia and forced ‘just another push, comrades!’ optimism, this is a book full of unromantic communist longing, deadpan humor, and hard-won wisdom."</p>
-    <footer>
-      <cite>Owen Hatherley, author of <i>The Ministry of Nostalgia</i></cite>
-    </footer>
-  </blockquote>
+    <p>Owen Hatherley, author of <i>The Ministry of Nostalgia</i></p>>
+   
   <blockquote>
     <p>"Not since Freud first described war neurosis have we been treated to such an astonishing taxonomy of the human mind. In <i>Burnout</i>, Hannah Proctor takes that feeling we all have, and names it again and again, helping us to resee the past and present of revolutionary struggle. A must-read."</p>
     <footer>

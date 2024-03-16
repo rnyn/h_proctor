@@ -77,6 +77,10 @@ blockquote p::after {
   padding-top:10px;
 }
 
+.cite{
+  font-style: :normal;
+}
+
 </style>
 <template>
 

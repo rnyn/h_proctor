@@ -68,7 +68,7 @@
 blockquote {
   margin: 0;
   /* padding-left: 10px; */
-  padding: 15px 20px; /* 15px top/bottom, 20px left/right */
+  padding: 10px 20px; /* 15px top/bottom, 20px left/right */
   background: none; /* Remove default background */
 }
 

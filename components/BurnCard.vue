@@ -103,7 +103,7 @@ blockquote p::after {
           <figure class="image">
             <img src="~/assets/burnout-cover.png" alt="Burnout: The Emotional Cover of Political Defeat - Book Cover" id="cover">
           </figure>
-          <h4>Burnout: The Emotional Experience of Political Defeat <br>How to maintain hope in the face of despair</h4>
+          <h4>Burnout: The Emotional Experience of Political Defeat</h4>
            
           <!-- preorder here -->
           <div class="block" id="preorderblock">
@@ -112,6 +112,7 @@ blockquote p::after {
             <a href="https://www.versobooks.com/en-gb/products/970-burnout" target="_blank">Verso Books</a>
           </p>
         </div>
+        <h4>How to maintain hope in the face of despair</h4>
             <div class="content">
             <!-- <p>
              <h4>How to maintain hope in the face of despair</h4>

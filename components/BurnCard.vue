@@ -120,7 +120,7 @@ blockquote p::after {
              </p> -->
 
             <p>
-            <b>How to maintain hope in the face of despair</b><br>
+            <b>How to maintain hope in the face of despair.</b><br>
             In the struggle for a better world, setbacks are inevitable. Defeat can feel overwhelming at times, but it has to be endured. How then do the people on the front line keep going? To answer that question, Hannah Proctor draws on historical resources to find out how revolutionaries and activists of the past kept a grip on hope.
             </p>
 

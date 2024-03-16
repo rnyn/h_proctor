@@ -67,7 +67,8 @@
 
 blockquote {
   margin: 0;
-  padding-left: 10px; /* Add padding to create space between the border and the text */
+  /* padding-left: 10px; */
+  padding: 15px 20px; /* 15px top/bottom, 20px left/right */
   background: none; /* Remove default background */
 }
 

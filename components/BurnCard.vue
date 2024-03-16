@@ -48,7 +48,7 @@
 
 #preorderlinks{
   font-family:  monospace;
-  padding-top: 10px;
+  padding-top: 5px;
 
 }
 
@@ -110,7 +110,7 @@ blockquote p::after {
           <div class="block" id="preorderblock">
           <p class="heading">Preorder</p>
           <p class="title is-size-6" id="preorderlinks">
-            <a href="https://www.versobooks.com/en-gb/products/970-burnout" target="_blank">Verso Books</a>
+            <a href="https://www.versobooks.com/en-gb/products/970-burnout" target="_blank"><small>Verso Books</small></a>
           </p>
         </div>
         <!-- <h4>How to maintain hope in the face of despair</h4> -->

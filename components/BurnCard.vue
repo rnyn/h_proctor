@@ -112,7 +112,7 @@ blockquote p::after {
         </div>
             <div class="content">
             <p>
-             <h5>How to maintain hope in the face of despair</h5>
+             <h4>How to maintain hope in the face of despair</h4>
              </p>
 
             <p>

@@ -100,12 +100,12 @@ blockquote p::after {
 
 
         <div class="container">
-          <h4>Burnout: The Emotional Experience of Political Defeat</h4>
+          <!-- <h4>Burnout: The Emotional Experience of Political Defeat</h4> -->
           <figure class="image">
             <img src="~/assets/burnout-cover.png" alt="Burnout: The Emotional Cover of Political Defeat - Book Cover" id="cover">
           </figure>
-          <!-- <h4>Burnout: The Emotional Experience of Political Defeat</h4> -->
-          <h4>How to maintain hope in the face of despair</h4>
+          <h4>Burnout: The Emotional Experience of Political Defeat</h4>
+          <!-- <h4>How to maintain hope in the face of despair</h4> -->
           <!-- preorder here -->
           <div class="block" id="preorderblock">
           <p class="heading">Preorder</p>
@@ -120,6 +120,7 @@ blockquote p::after {
              </p> -->
 
             <p>
+            <b>How to maintain hope in the face of despair</b><br>
             In the struggle for a better world, setbacks are inevitable. Defeat can feel overwhelming at times, but it has to be endured. How then do the people on the front line keep going? To answer that question, Hannah Proctor draws on historical resources to find out how revolutionaries and activists of the past kept a grip on hope.
             </p>
 

@@ -120,7 +120,7 @@ blockquote p::after {
   </blockquote>
   </div>
   
-  <div class="box">         
+  <div class="block">         
   <blockquote>
     <p>Not since Freud first described war neurosis have we been treated to such an astonishing taxonomy of the human mind. In <i>Burnout</i>, Hannah Proctor takes that feeling we all have, and names it again and again, helping us to resee the past and present of revolutionary struggle. A must-read.</p>
     <footer>

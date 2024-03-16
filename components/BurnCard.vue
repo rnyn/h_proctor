@@ -60,6 +60,8 @@
 
 blockquote {
   margin: 0;
+  padding-left: 10px; /* Add padding to create space between the border and the text */
+  background: none; /* Remove default background */
 }
 
 

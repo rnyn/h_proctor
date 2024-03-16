@@ -78,7 +78,7 @@ blockquote p::after {
 }
 
 .cite{
-  font-style: :normal;
+  font-style: normal;
 }
 
 </style>

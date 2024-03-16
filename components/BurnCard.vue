@@ -74,6 +74,7 @@ blockquote p::after {
 }
 
 .content blockquote{
+  border-left: 4px solid #333;
   max-width:400px;
   margin:0 auto;
   padding-top:10px;

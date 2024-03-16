@@ -40,6 +40,11 @@
 
 }
 
+#preorderblock{
+    text-align: center;
+}
+
+
 
 #preorderlinks{
   font-family:  monospace;
@@ -99,7 +104,7 @@ blockquote p::after {
           </figure>
           <h4>Burnout: The Emotional Experience of Political Defeat </h4>
           <!-- preorder here -->
-          <div class="block">
+          <div class="block" id="preorderblock">
           <p class="heading">Preorder</p>
           <p class="title is-size-6" id="preorderlinks">
           <a href="https://www.versobooks.com/en-gb/products/970-burnout">Verso Books</a>
@@ -107,7 +112,7 @@ blockquote p::after {
         </div>
             <div class="content">
             <p>
-             <b>How to maintain hope in the face of despair</b>
+             <h5>How to maintain hope in the face of despair</h5>
              </p>
 
             <p>

@@ -98,7 +98,13 @@ blockquote p::after {
             <img src="~/assets/burnout-cover.png" alt="Burnout: The Emotional Cover of Political Defeat - Book Cover" id="cover">
           </figure>
           <h4>Burnout: The Emotional Experience of Political Defeat </h4>
-
+          <!-- preorder here -->
+          <div class="block">
+          <p class="heading">Preorder</p>
+          <p class="title is-size-6" id="preorderlinks">
+          <a href="https://www.versobooks.com/en-gb/products/970-burnout">Verso Books</a>
+          </p>
+        </div>
             <div class="content">
             <p>
              <b>How to maintain hope in the face of despair</b>
@@ -139,7 +145,7 @@ blockquote p::after {
 <p>10 April 2024, <a href="https://www.peeruk.org/talks-events-workshops/2024/4/10/book-launch-for-burn-out-by-hannah-proctor">Burnout London launch</a> (with Larne Abse Gogarty), Peer Gallery</p>
      
     </div>
-      <nav class="level is-mobile">
+      <!-- <nav class="level is-mobile">
         <div class="level-item has-text-centered">
 
         <div>
@@ -150,7 +156,7 @@ blockquote p::after {
         </div>
         </div>
       </nav>
-        </div>
+        </div> -->
 
 
 

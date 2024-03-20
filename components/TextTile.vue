@@ -1,24 +1,15 @@
 <style scoped>
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
 
-/* #tile-container{
-  margin: 0 auto;
-  width:100%;
-} */
+
 .image{
   font-family: 'Alegreya', serif;
-  /* background-image: url('~/assets/bg-6.gif'); */
+  position:relative; /* placeholder */
 }
 
 .tile{
   padding:1px;
   width:300px;
-  /* max-height:400px; */
-  /* float: left;
-  position: relative;
-  margin: 0 auto;
-
-  /* margin-right:20px; */
   margin-top:20px;
 }
 #image-tile{
@@ -72,30 +63,21 @@ h2 {
    z-index: 1;
 
 }
-/* p{
-  visibility: hidden;
-} */
-
-/* #abstract:hover {
-   position: absolute;
-   bottom: 50;
-   left: 0;
-   width: 100%;
-   color:white;
-   font-size:25px;
-   background-color:rgb(0,0,0,0.3);
-   z-index: 1;
-
-} */
-
-/* .notification{
-  font-size: .85em;
-} */
+/* placeholder */
+ /* .image {
+    position: relative;
+  } */
+  
+  .image-placeholder {
+    width: 100%;
+    height: 0;
+    /* padding-top: 56.25%;  */
+    background-color: #f0f0f0; 
+  }
 
   </style>
 
-  <template>
-  <!-- <div class="container is-fullwidth" id="tile-container"> -->
+  <!-- <template>
   <a :href="url" target="_blank">
 
   <div class="tile is-parent">
@@ -107,7 +89,6 @@ h2 {
 
             <h2>{{title}}</h2>
 
-          <!-- <p id="abstract"> {{ abstract }} </p> -->
 
           </figure>
 
@@ -115,7 +96,6 @@ h2 {
   </div>
 
 </a>
-<!-- </div> -->
 </template>
 
 <script>
@@ -125,4 +105,34 @@ export default {
     props: ["title", "publication", "thumbnail", "abstract", "year", "month", "id", "url"]
 };
 
+</script> -->
+
+<template>
+  <a :href="url" target="_blank">
+    <div class="tile is-parent">
+      <article class="tile is-child" id="image-tile">
+        <figure class="image">
+          <div class="image-placeholder"></div> <!-- Placeholder -->
+          <img :src="thumbnail" loading="lazy" @load="imageLoaded"> <!-- Lazy loading -->
+          <h3>{{ publication }} <br> {{ year }}/{{ month }}</h3>
+          <h2>{{ title }}</h2>
+        </figure>
+      </article>
+    </div>
+  </a>
+</template>
+
+<script>
+export default {
+  name: 'TextTile',
+  props: ["title", "publication", "thumbnail", "abstract", "year", "month", "id", "url"],
+  methods: {
+    imageLoaded() {
+      const placeholder = document.querySelector('.image-placeholder');
+      if (placeholder) {
+        placeholder.style.opacity = '0';
+      }
+    }
+  }
+};
 </script>

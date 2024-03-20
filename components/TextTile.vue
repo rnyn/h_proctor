@@ -64,10 +64,7 @@ h2 {
 
 }
 /* placeholder */
- /* .image {
-    position: relative;
-  } */
-  
+   
   .image-placeholder {
     width: 100%;
     height: 0;
@@ -77,35 +74,7 @@ h2 {
 
   </style>
 
-  <!-- <template>
-  <a :href="url" target="_blank">
-
-  <div class="tile is-parent">
-    <article class="tile is-child" id="image-tile">
-
-          <figure class="image">
-            <img :src="thumbnail" loading="lazy">
-          <h3>{{publication}} <br> {{year}}/{{month}}</h3>
-
-            <h2>{{title}}</h2>
-
-
-          </figure>
-
-        </article>
-  </div>
-
-</a>
-</template>
-
-<script>
-
-export default {
-  name: 'TextTile',
-    props: ["title", "publication", "thumbnail", "abstract", "year", "month", "id", "url"]
-};
-
-</script> -->
+ 
 
 <template>
   <a :href="url" target="_blank">

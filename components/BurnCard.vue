@@ -142,7 +142,7 @@ blockquote p::after {
 
 <h4>Excerpts</h4>
 
-<a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor">The Baffler</a>
+<p><a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor">The Baffler</a></p>
     </div>
      
         </div>

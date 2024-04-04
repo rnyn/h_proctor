@@ -140,6 +140,9 @@ blockquote p::after {
 <p>11 April 2024, <a href="https://events.maydayrooms.org/e/13/burn-out-documenting-and-dealing-with-defeat-with-hannah-proctor">London talk</a>, MayDay Rooms</p>
 <p>18 April 2024, <a href="https://www.cca-glasgow.com/programme/book-launch-burnout">Glasgow launch</a>, CCA</p>
 
+<h4>Excerpts</h4>
+
+<a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor">The Baffler</a>
     </div>
      
         </div>

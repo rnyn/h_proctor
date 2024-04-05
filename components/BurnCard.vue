@@ -31,7 +31,7 @@
 .content h4 {
   max-width: 420px;
   margin: 0 auto;
-  padding: 10px;
+  padding: 15px;
   text-align: center;
   font-family: 'Alegreya Sans SC', sans-serif;
 

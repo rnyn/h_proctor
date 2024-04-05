@@ -156,7 +156,7 @@ blockquote p::after {
 
       <p>
 
-        <li>Beyond Left Melancholy, <a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor">The Baffler</a>
+        Beyond Left Melancholy, <a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor">The Baffler</a>
 
 
       </p>

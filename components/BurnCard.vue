@@ -144,11 +144,11 @@ blockquote p::after {
 
       <h4>Events</h4>
 
-      <p>10 April 2024, London launch,<a
+      <p>10 April 2024, London launch —<a
           href="https://www.peeruk.org/talks-events-workshops/2024/4/10/book-launch-for-burn-out-by-hannah-proctor" target="_blank">Peer Gallery</a></p>
-      <p>11 April 2024, London talk, <a
-          href="https://events.maydayrooms.org/e/13/burn-out-documenting-and-dealing-with-defeat-with-hannah-proctor" target="_blank"></a>MayDay Rooms</a></p>
-      <p>18 April 2024, Glasgow Launch, <a href="https://www.cca-glasgow.com/programme/book-launch-burnout" target="_blank">CCA<</a></p>
+      <p>11 April 2024, London talk — <a
+          href="https://events.maydayrooms.org/e/13/burn-out-documenting-and-dealing-with-defeat-with-hannah-proctor" target="_blank">MayDay Rooms</a></p>
+      <p>18 April 2024, Glasgow Launch — <a href="https://www.cca-glasgow.com/programme/book-launch-burnout" target="_blank">CCA</a></p>
 
       <h4>Excerpts</h4>
 

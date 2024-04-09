@@ -156,10 +156,20 @@ blockquote p::after {
 
       <p>
 
-        Beyond Left Melancholy, <a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor">The Baffler</a>
+        "Beyond Left Melancholy", <a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor" target="_blank">The Baffler</a>
 
 
       </p>
+
+      <h4> Interviews </h4>
+      <p>
+      "We Can’t Ignore the Difficult Emotions of Political Defeat," <a href="https://jacobin.com/2024/04/burnout-left-political-defeat-emotions" target="_blank">Jacobin</a>
+    </p>
+    <h4> Podcasts </h4>
+    <p>
+    "With or Without Hope" <a href="https://www.versobooks.com/blogs/news/with-or-without-hope-hannah-proctor-ajay-singh-chaudhary" target="_blank">Verso Podcast</a>
+    </p>
+    
     </div>
 
   </div>

@@ -91,7 +91,7 @@ blockquote p::after {
     <h4>Burnout: The Emotional Experience of Political Defeat</h4>
     <!-- preorder here -->
     <div class="block" id="preorderblock">
-      <p class="heading">Preorder</p>
+      <p class="heading">Order here:</p>
       <p class="title is-size-6" id="preorderlinks">
         <a href="https://www.versobooks.com/en-gb/products/970-burnout" target="_blank"><small>Verso Books</small></a>
       </p>

@@ -161,7 +161,7 @@ blockquote p::after {
 
       <h4> Interviews </h4>
       <p>
-      "We Can’t Ignore the Difficult Emotions of Political Defeat" — <a href="https://jacobin.com/2024/04/burnout-left-political-defeat-emotions" target="_blank">Jacobin</a>
+      "We Can’t Ignore the Difficult Emotions of Political Defeat"<br> — <a href="https://jacobin.com/2024/04/burnout-left-political-defeat-emotions" target="_blank">Jacobin</a>
     </p>
     <h4> Podcasts </h4>
     <p>

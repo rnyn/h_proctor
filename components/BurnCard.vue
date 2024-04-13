@@ -175,12 +175,12 @@ blockquote p::after {
       </p>
       <h4>Reviews</h4>
 
-      <p>"How Do We Feel in the Wake of Political Defeat?"<br> — <a
-          href="https://artreview.com/burnout-hannah-proctor-review-how-do-we-feel-in-the-wake-of-political-defeat/"
-          target="_blank">ArtReview</a></p>
       <p>"Falling Apart Together?" — <a
           href="https://lareviewofbooks.org/article/falling-apart-together-on-hannah-proctors-burnout/"
         target="_blank">LARB</a></p>
+       <p>"How Do We Feel in the Wake of Political Defeat?"<br> — <a
+          href="https://artreview.com/burnout-hannah-proctor-review-how-do-we-feel-in-the-wake-of-political-defeat/"
+          target="_blank">ArtReview</a></p>
 
 
 

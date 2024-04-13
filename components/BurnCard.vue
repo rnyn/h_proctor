@@ -115,8 +115,7 @@ blockquote p::after {
         exploration of the ways militants have made sense of their own burnout demonstrates that it is possible to mourn
         and organise at once, and to do both without compromise.
       </p>
-      <h4>Reviews</h4>
-
+      
       <div class="block">
         <blockquote>
           <p>Hannah Proctor is one of the best writers on the left today, and this is an extraordinary and extremely
@@ -140,6 +139,11 @@ blockquote p::after {
           </footer>
         </blockquote>
       </div>
+
+      <h4>Reviews</h4>
+
+<p>"How Do We Feel in the Wake of Political Defeat?" — <a href="https://artreview.com/burnout-hannah-proctor-review-how-do-we-feel-in-the-wake-of-political-defeat/" target="_blank">ArtReview</a></p>
+<p>"Falling Apart Together?" — <a href="https://lareviewofbooks.org/article/falling-apart-together-on-hannah-proctors-burnout/" target="_blank">LARB</a></p>
 
 
       <h4>Events</h4>

@@ -115,7 +115,7 @@ blockquote p::after {
         exploration of the ways militants have made sense of their own burnout demonstrates that it is possible to mourn
         and organise at once, and to do both without compromise.
       </p>
-      
+
       <div class="block">
         <blockquote>
           <p>Hannah Proctor is one of the best writers on the left today, and this is an extraordinary and extremely
@@ -140,39 +140,50 @@ blockquote p::after {
         </blockquote>
       </div>
 
-      <h4>Reviews</h4>
-
-<p>"How Do We Feel in the Wake of Political Defeat?" — <a href="https://artreview.com/burnout-hannah-proctor-review-how-do-we-feel-in-the-wake-of-political-defeat/" target="_blank">ArtReview</a></p>
-<p>"Falling Apart Together?" — <a href="https://lareviewofbooks.org/article/falling-apart-together-on-hannah-proctors-burnout/" target="_blank">LARB</a></p>
-
 
       <h4>Events</h4>
 
       <p>10 April 2024, London launch — <a
-          href="https://www.peeruk.org/talks-events-workshops/2024/4/10/book-launch-for-burn-out-by-hannah-proctor" target="_blank">Peer Gallery</a></p>
+          href="https://www.peeruk.org/talks-events-workshops/2024/4/10/book-launch-for-burn-out-by-hannah-proctor"
+          target="_blank">Peer Gallery</a></p>
       <p>11 April 2024, London talk — <a
-          href="https://events.maydayrooms.org/e/13/burn-out-documenting-and-dealing-with-defeat-with-hannah-proctor" target="_blank">MayDay Rooms</a></p>
-      <p>18 April 2024, Glasgow Launch — <a href="https://www.cca-glasgow.com/programme/book-launch-burnout" target="_blank">CCA</a></p>
+          href="https://events.maydayrooms.org/e/13/burn-out-documenting-and-dealing-with-defeat-with-hannah-proctor"
+          target="_blank">MayDay Rooms</a></p>
+      <p>18 April 2024, Glasgow Launch — <a href="https://www.cca-glasgow.com/programme/book-launch-burnout"
+          target="_blank">CCA</a></p>
 
       <h4>Excerpts</h4>
 
       <p>
 
-        "Beyond Left Melancholy" — <a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor" target="_blank">The Baffler</a>
+        "Beyond Left Melancholy" — <a href="https://thebaffler.com/salvos/beyond-left-melancholy-proctor"
+          target="_blank">The Baffler</a>
 
 
       </p>
 
       <h4> Interviews </h4>
       <p>
-      "We Can’t Ignore the Difficult Emotions of Political Defeat"<br> — <a href="https://jacobin.com/2024/04/burnout-left-political-defeat-emotions" target="_blank">Jacobin</a>
-    </p>
-    <h4> Podcasts </h4>
-    <p>
-    "With or Without Hope" — <a href="https://www.versobooks.com/blogs/news/with-or-without-hope-hannah-proctor-ajay-singh-chaudhary" target="_blank">Verso Podcast</a>
-    </p>
-    
-    </div>
+        "We Can’t Ignore the Difficult Emotions of Political Defeat"<br> — <a
+          href="https://jacobin.com/2024/04/burnout-left-political-defeat-emotions" target="_blank">Jacobin</a>
+      </p>
+      <h4> Podcasts </h4>
+      <p>
+        "With or Without Hope" — <a
+          href="https://www.versobooks.com/blogs/news/with-or-without-hope-hannah-proctor-ajay-singh-chaudhary"
+          target="_blank">Verso Podcast</a>
+      </p>
+      <h4>Reviews</h4>
+
+      <p>"How Do We Feel in the Wake of Political Defeat?"<br> — <a
+          href="https://artreview.com/burnout-hannah-proctor-review-how-do-we-feel-in-the-wake-of-political-defeat/"
+          target="_blank">ArtReview</a></p>
+      <p>"Falling Apart Together?" — <a
+          href="https://lareviewofbooks.org/article/falling-apart-together-on-hannah-proctors-burnout/"
+        target="_blank">LARB</a></p>
+
+
 
   </div>
-</template>
+
+</div></template>

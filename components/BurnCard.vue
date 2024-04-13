@@ -50,8 +50,7 @@
 }
 
 .content p {
-  /* max-width: 400px; */
-  max-width: 600;
+  max-width: 400px;
   margin: 0 auto;
   padding-top: 10px;
 }

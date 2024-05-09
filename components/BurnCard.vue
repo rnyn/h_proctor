@@ -170,7 +170,7 @@ blockquote p::after {
           href="https://jacobin.com/2024/04/burnout-left-political-defeat-emotions" target="_blank">Jacobin</a>
       </p>
       <p>
-        "How activists can push through burnout and defeat"<br> — 
+        "How Activists Can Push Through Burnout and Defeat"<br> — 
         <a href="https://www.dazeddigital.com/life-culture/article/62427/1/hannah-proctor-on-the-emotional-experience-of-political-defeat-burnout" target="_blank">Dazed</a> 
       </p>
       <h4> Podcasts </h4>

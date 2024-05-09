@@ -35,7 +35,7 @@ const makeStore = () => {
   texts: [
     {
       id: 55,
-      slug: "psychic-numbing",,
+      slug: "psychic-numbing",
       title: "Psychic Numbing",
       thumbnail: require("~/assets/psychic-numbing.jpg"),
       publication: "Boston Review",

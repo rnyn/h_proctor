@@ -51,7 +51,9 @@ const makeStore = () => {
         content: "",
         keywords: "war, psychology, mind, national security, review, book"
       }
-    }{
+    },
+    
+    {
       id: 54,
       slug: "space-crone-review",
       title: "Ursula Le Guin's Space Crone",
@@ -69,7 +71,7 @@ const makeStore = () => {
         content: "",
         keywords: "Ursula Le Guin, SciFi, science ficiton, review, novel, literature, book"
       }
-    },
+    },    
     {
       id: 53,
       slug: "science-social-history",

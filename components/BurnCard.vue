@@ -149,8 +149,10 @@ blockquote p::after {
       <p>11 April 2024, London talk — <a
           href="https://events.maydayrooms.org/e/13/burn-out-documenting-and-dealing-with-defeat-with-hannah-proctor"
           target="_blank">MayDay Rooms</a></p>
-      <p>18 April 2024, Glasgow Launch — <a href="https://www.cca-glasgow.com/programme/book-launch-burnout"
+      <p>18 April 2024, Glasgow launch — <a href="https://www.cca-glasgow.com/programme/book-launch-burnout"
           target="_blank">CCA</a></p>
+      <p>1 May 2024, New York launch — <a href="https://www.nplusonemag.com/online-only/events/hannah-proctor-and-tess-edmonson-in-conversation/" target="_blank">n+1</a></p>
+      <p>4 May 2024, New York talk — <a href="https://canopycanopycanopy.com/contents/rupture-and-repair" target="_blank">Triple Canopy</a></p>
 
       <h4>Excerpts</h4>
 

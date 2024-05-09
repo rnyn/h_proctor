@@ -34,6 +34,24 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 55,
+      slug: "psychic-numbing",,
+      title: "Psychic Numbing",
+      thumbnail: require("~/assets/psychic-numbing.jpg"),
+      publication: "Boston Review",
+      abstract:
+        "",
+      year: "2024",
+      month: "04",
+      url:
+        "https://www.bostonreview.net/articles/psychic-numbing/",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Psychic Numbing",
+        content: "",
+        keywords: "war, psychology, mind, national security, review, book"
+      }
+    }{
       id: 54,
       slug: "space-crone-review",
       title: "Ursula Le Guin's Space Crone",

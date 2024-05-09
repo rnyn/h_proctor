@@ -169,6 +169,10 @@ blockquote p::after {
         "We Can’t Ignore the Difficult Emotions of Political Defeat"<br> — <a
           href="https://jacobin.com/2024/04/burnout-left-political-defeat-emotions" target="_blank">Jacobin</a>
       </p>
+      <p>
+        "How activists can push through burnout and defeat"<br> — 
+        <a href="https://www.dazeddigital.com/life-culture/article/62427/1/hannah-proctor-on-the-emotional-experience-of-political-defeat-burnout" target="_blank">Dazed</a> 
+      </p>
       <h4> Podcasts </h4>
       <p>
         "With or Without Hope" — <a

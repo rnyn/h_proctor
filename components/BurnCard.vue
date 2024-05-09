@@ -151,8 +151,11 @@ blockquote p::after {
           target="_blank">MayDay Rooms</a></p>
       <p>18 April 2024, Glasgow launch — <a href="https://www.cca-glasgow.com/programme/book-launch-burnout"
           target="_blank">CCA</a></p>
-      <p>1 May 2024, New York launch — <a href="https://www.nplusonemag.com/online-only/events/hannah-proctor-and-tess-edmonson-in-conversation/" target="_blank">n+1</a></p>
-      <p>4 May 2024, New York talk — <a href="https://canopycanopycanopy.com/contents/rupture-and-repair" target="_blank">Triple Canopy</a></p>
+      <p>1 May 2024, New York launch — <a
+          href="https://www.nplusonemag.com/online-only/events/hannah-proctor-and-tess-edmonson-in-conversation/"
+          target="_blank">n+1</a></p>
+      <p>4 May 2024, New York talk — <a href="https://canopycanopycanopy.com/contents/rupture-and-repair"
+          target="_blank">Triple Canopy</a></p>
 
       <h4>Excerpts</h4>
 
@@ -170,8 +173,9 @@ blockquote p::after {
           href="https://jacobin.com/2024/04/burnout-left-political-defeat-emotions" target="_blank">Jacobin</a>
       </p>
       <p>
-        "How Activists Can Push Through Burnout and Defeat"<br> — 
-        <a href="https://www.dazeddigital.com/life-culture/article/62427/1/hannah-proctor-on-the-emotional-experience-of-political-defeat-burnout" target="_blank">Dazed</a> 
+        "How Activists Can Push Through Burnout and Defeat"<br> —
+        <a href="https://www.dazeddigital.com/life-culture/article/62427/1/hannah-proctor-on-the-emotional-experience-of-political-defeat-burnout"
+          target="_blank">Dazed</a>
       </p>
       <h4> Podcasts </h4>
       <p>
@@ -180,20 +184,29 @@ blockquote p::after {
           target="_blank">Verso Podcast</a>
       </p>
       <p>
-        "A Short History of Burnout" — 
-        <a href="https://podcasts.apple.com/za/podcast/a-short-history-of-burnout-w-hannah-proctor/id1646528688?i=1000652693157" target="_blank">Macrodose</a>
+        "A Short History of Burnout" —
+        <a href="https://podcasts.apple.com/za/podcast/a-short-history-of-burnout-w-hannah-proctor/id1646528688?i=1000652693157"
+          target="_blank">Macrodose</a>
       </p>
       <h4>Reviews</h4>
 
       <p>"Falling Apart Together?" — <a
           href="https://lareviewofbooks.org/article/falling-apart-together-on-hannah-proctors-burnout/"
-        target="_blank">LARB</a></p>
-       <p>"How Do We Feel in the Wake of Political Defeat?"<br> — <a
+          target="_blank">LARB</a></p>
+      <p>"How Do We Feel in the Wake of Political Defeat?"<br> — <a
           href="https://artreview.com/burnout-hannah-proctor-review-how-do-we-feel-in-the-wake-of-political-defeat/"
           target="_blank">ArtReview</a></p>
+      <p>"How We Keep Going" — <a href="https://magazine.unison.org.uk/2024/04/17/book-review-burn-out/"
+          target="_blank">Unison</a></p>
+      <p>"Why We Must Both Mourn and Organize" —<br>
+        <a href="https://newint.org/issues/2024/04/26/debt-which-way-out" target="_blank">New Internationalist</a>
+      </p>
+      <p>"Between Victory and Defeat" — <a href="https://www.thenation.com/article/culture/burnout-hannah-proctor/"
+          target="_blank">The Nation</a></p>
 
 
+
+    </div>
 
   </div>
-
-</div></template>
+</template>

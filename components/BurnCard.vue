@@ -201,7 +201,7 @@ blockquote p::after {
       <p>
         "Feeling Bad, Politically" —
         <a href="https://red-medicine.simplecast.com/episodes/feeling-bad-politically-w-hannah-proctor"
-          target="_blank">Uncommon Sense</a>
+          target="_blank">Red Medicine</a>
       </p>
       
       <h4>Reviews</h4>

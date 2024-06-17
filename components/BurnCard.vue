@@ -203,7 +203,7 @@ blockquote p::after {
           target="_blank">ArtReview</a></p>
       <p>"How We Keep Going" — <a href="https://magazine.unison.org.uk/2024/04/17/book-review-burn-out/"
           target="_blank">Unison</a></p>
-      <p>"Why We Must Both Mourn and Organize" —<br>
+      <p>"Why We Must Both Mourn and Organize"<br> —
         <a href="https://newint.org/issues/2024/04/26/debt-which-way-out" target="_blank">New Internationalist</a>
       </p>
       <p>"Losing the Fight for a Better World Takes a Toll"<br> — <a href="https://jacobin.com/2024/05/defeat-politics-burnout-book-review"

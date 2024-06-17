@@ -206,10 +206,8 @@ blockquote p::after {
       <p>"Why We Must Both Mourn and Organize" —<br>
         <a href="https://newint.org/issues/2024/04/26/debt-which-way-out" target="_blank">New Internationalist</a>
       </p>
-      <p>"Losing the Fight for a Better World Takes a Toll" — <a href="https://jacobin.com/2024/05/defeat-politics-burnout-book-review"
-          target="_blank">Jacobin</a></p>
-      <p>"Burn Out" — <a href="https://anticapitalistresistance.org/burn-out-the-emotional-experience-of-political-defeat/"
-          target="_blank">Anti*Capitalist Resistance</a></p>   
+      <p>"Losing the Fight for a Better World Takes a Toll"<br> — <a href="https://jacobin.com/2024/05/defeat-politics-burnout-book-review"
+          target="_blank">Jacobin</a></p> 
       <p>"Haud Forrit" — <a href="https://morningstaronline.co.uk/article/haud-forrit"
           target="_blank">Morning Star</a></p> 
       <p>"Burn Out" — <a href="https://anticapitalistresistance.org/burn-out-the-emotional-experience-of-political-defeat/"

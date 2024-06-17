@@ -34,6 +34,25 @@ const makeStore = () => {
         commit("updateTexts", {
   texts: [
     {
+      id: 56,
+      slug: "final-prophecy",
+      title: "Walter Benjamin’s Final Prophecy",
+      thumbnail: require("~/assets/final-prophecy.jpg"),
+      publication: "Jacobin",
+      abstract:
+        "",
+      year: "2024",
+      month: "04",
+      url:
+        "https://jacobin.com/2024/04/walter-benjamins-final-prophecy",
+      meta: {
+        author: "Hannah Proctor",
+        title: "Walter Benjamin’s Final Prophecy",
+        content: "",
+        keywords: "Walter Benjamin, Judaism, marxism, revolution, religion, theory"
+      }
+    },
+    {
       id: 55,
       slug: "psychic-numbing",
       title: "Psychic Numbing",

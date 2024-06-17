@@ -193,6 +193,17 @@ blockquote p::after {
         <a href="https://podcasts.apple.com/za/podcast/a-short-history-of-burnout-w-hannah-proctor/id1646528688?i=1000652693157"
           target="_blank">Macrodose</a>
       </p>
+      <p>
+        "Burnout, with Hannah Proctor" —
+        <a href="https://www.uncommonsensepodcast.org/1940580/14907404-burnout-with-hannah-proctor?t=0"
+          target="_blank">Uncommon Sense</a>
+      </p>
+      <p>
+        "Feeling Bad, Politically" —
+        <a href="https://red-medicine.simplecast.com/episodes/feeling-bad-politically-w-hannah-proctor"
+          target="_blank">Uncommon Sense</a>
+      </p>
+      
       <h4>Reviews</h4>
 
       <p>"Falling Apart Together?" — <a

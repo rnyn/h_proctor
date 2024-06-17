@@ -156,6 +156,11 @@ blockquote p::after {
           target="_blank">n+1</a></p>
       <p>4 May 2024, New York talk — <a href="https://canopycanopycanopy.com/contents/rupture-and-repair"
           target="_blank">Triple Canopy</a></p>
+      <p>29 June 2024, Prague talk — <a href="https://matterof.art/events/burnout-the-emotional-experience-of-political-defeat-talk-by-hannah-proctor"
+          target="_blank">Matter of Art</a></p>
+      <p>02 July 2024, Graz talk — <a href="https://forumstadtpark.at/de/programm/burnout-und-aktivismus"
+          target="_blank">Forum Stadtpark</a></p>
+
 
       <h4>Excerpts</h4>
 

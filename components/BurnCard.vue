@@ -160,6 +160,11 @@ blockquote p::after {
           target="_blank">Matter of Art</a></p>
       <p>02 July 2024, Graz talk — <a href="https://forumstadtpark.at/de/programm/burnout-und-aktivismus"
           target="_blank">Forum Stadtpark</a></p>
+      <p>04 July 2024, Vienna talk — <a href="https://kunsthallewien.at/en/event/burn-out-the-emotional-experience-of-political-defeat/"
+          target="_blank">Kunsthalle Wien</a></p>
+
+
+          
 
 
       <h4>Excerpts</h4>

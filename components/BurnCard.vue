@@ -208,6 +208,11 @@ blockquote p::after {
         <a href="https://red-medicine.simplecast.com/episodes/feeling-bad-politically-w-hannah-proctor"
           target="_blank">Red Medicine</a>
       </p>
+      <p>
+        "The Vanquished of Yesterday" —
+        <a href="https://tribunemag.co.uk/2024/06/burnout-hannah-proctor"
+          target="_blank">Tribune</a>
+      </p>
       
       <h4>Reviews</h4>
 

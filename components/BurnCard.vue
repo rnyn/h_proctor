@@ -211,6 +211,9 @@ blockquote p::after {
       
       <h4>Reviews</h4>
 
+      <p>"Between Victory and Defeat" — <a
+          href="https://www.thenation.com/article/culture/burnout-hannah-proctor/"
+          target="_blank">The Nation</a></p>
       <p>"Falling Apart Together?" — <a
           href="https://lareviewofbooks.org/article/falling-apart-together-on-hannah-proctors-burnout/"
           target="_blank">LARB</a></p>
